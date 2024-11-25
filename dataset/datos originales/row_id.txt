@@ -14,8 +14,18 @@ vehicle_position_z_mean
 bike_position_x_mean
 bike_position_y_mean
 bike_position_z_mean
+risk,
+
 
 row_id, current_date_time_min, current_date_time_mean, current_date_time_max, time_mean, time_min, time_max, user_id, vehicle_id, vehicle_name, vehicle_position_x_mean, vehicle_position_y_mean, vehicle_position_z_mean, bike_position_x_mean, bike_position_y_mean, bike_position_z_mean
+
+
+
+
+
+
+
+
 
 
 lanes,
@@ -32,7 +42,6 @@ driving_between_lanes,
 crossings_without_priority,
 is_bike_infringement,
 real_risk,
-risk,
 bike_side_on_collision,
 vehicle_side_on_collision,
 in_collision_fault_of,

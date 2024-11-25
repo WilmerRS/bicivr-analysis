@@ -1,0 +1,1524 @@
+lanes,is_intersection,is_two_way_street,bike_maneuver,vehicle_maneuver,maneuver_direction,sidewalk_climbs,running_red_light,drive_opposite_direction,bad_roundabout,driving_between_lanes,crossings_without_priority,is_bike_infringement,vehicle_speed_max,distance_min,bike_speed_max,level,real_risk
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,33.21007,6.084,23.7727,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,8.137608e-05,1.525403,25.90126,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,24.54172,6.500194,17.99194,normal,warning
+1,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,24.00027,3.67182,58.72406,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,49.99803,6.381399,6.828792,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,47.00008,3.174242,25.55413,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.65988,5.55976,16.65844,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,29.00109,6.208251,14.76871,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00305,1.585138,23.1127,normal,danger
+2,no,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,31.61682,1.619022,4.61302,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,42.61573,0.9928768,22.87132,easy,danger
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,20.00006,7.661116,14.06627,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,45.00301,4.570004,3.891482,hard,warning
+1,no,yes,reverse,stop,same_direction,no,no,yes,no,no,no,yes,3.240064,4.49085,5.279787,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00014,1.625163,28.68064,normal,danger
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,43.46976,0.5307155,12.72829,hard,danger
+1,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,yes,yes,15.03116,3.146751,0.7367541,hard,warning
+2,no,yes,reverse,straight,from_right,yes,no,no,no,no,no,yes,20.00111,2.267834,11.44079,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.01126,6.093941,22.66892,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,24.00051,2.873254,14.39218,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,38.95016,1.239661,8.53742,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.01204,5.566581,30.06287,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,22.00108,1.324604,32.87553,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,50.00019,4.62624,8.857379,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00001,0.911638,39.06768,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,28.00002,4.377806,50.35506,easy,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.0002,2.328197,9.808128,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.0042,0.8955626,7.585506,hard,danger
+1,yes,yes,turn_right,straight,same_direction,yes,no,yes,no,no,yes,yes,43.18702,1.844732,12.50262,normal,danger
+1,yes,yes,straight,stop,from_right,no,no,no,no,no,no,no,1.622168e-05,7.992365,39.55986,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,29.47426,2.443884,14.32356,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,9.754422e-05,9.101837,20.77322,hard,warning
+1,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,20.0,1.47018,35.37582,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00092,1.544526,54.79886,hard,danger
+2,yes,yes,straight,turn_right,from_right,no,no,no,no,no,no,no,48.78434,2.953074,45.64335,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,36.00006,5.307535,11.10572,easy,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00106,1.943776,11.292,easy,danger
+1,no,yes,stop,stop,from_right,no,no,no,no,yes,no,yes,0.0001576661,4.999844,5.233219,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,9.271804,3.616858,20.77322,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,17.78645,7.034238,14.39218,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.0073,5.458451,23.49432,hard,warning
+2,no,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,43.00536,3.237259,4.204607,normal,warning
+4,yes,no,stop,turn left,from_right,yes,no,no,no,yes,no,yes,20.00003,3.550866,7.069465,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,7.311118,5.55846,22.63981,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,20.0,5.698786,15.87629,normal,warning
+1,no,yes,stop,stop,same_direction,no,no,no,no,no,no,no,13.92318,8.844593,0.01437633,easy,danger
+1,yes,yes,stop,turn_right,from_left,no,no,yes,no,yes,no,yes,33.15124,0.6306763,2.858733,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,25.73648,2.309172,22.8028,normal,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,6.504732e-05,3.173847,26.0086,hard,warning
+3,yes,yes,turn_right,straight,from_left,no,no,no,no,no,no,no,11.78672,5.866268,5.676788,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00567,5.21482,37.88732,normal,warning
+2,yes,yes,turn left,stop,same_direction,no,no,no,no,yes,yes,yes,36.01492,1.829217,16.02863,normal,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,9.470676e-05,5.86698,9.286287,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,62.30861,2.900124,25.93547,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0005,5.998793,32.42684,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00005,1.66105,43.05401,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,41.83916,4.418386,18.73628,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.000148083,1.322406,36.21624,normal,danger
+2,no,yes,turn_right,straight,opposite_direction,yes,no,yes,no,no,no,yes,50.00206,6.715389,10.56045,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00001,5.354537,20.52835,hard,warning
+2,yes,no,turn_right,stop,same_direction,no,no,no,no,no,no,no,8.158631e-07,7.955347,11.1024,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00008,3.217058,26.77538,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00038,4.993742,22.00072,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00102,4.727917,49.9892,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,26.00004,2.195211,28.91823,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00031,4.653743,15.11968,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,23.81322,4.799952,28.63788,hard,warning
+1,yes,yes,straight,stop,from_left,yes,no,yes,no,no,yes,yes,0.8832394,0.0,7.011931,hard,collision
+2,yes,yes,turn_right,stop,opposite_direction,no,no,no,no,no,yes,yes,30.01233,5.67365,13.72072,normal,warning
+2,yes,yes,straight,turn_right,from_right,no,no,no,no,no,no,no,10.99207,2.704025,9.886101,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,70.00002,4.871733,7.300741,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,0.00143859,5.247004,26.40713,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00002,5.453548,7.794418,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,50.00032,1.397762,24.15986,easy,danger
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.000106602,1.659996,13.24796,easy,danger
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.01218,2.383631,21.74838,hard,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,19.98055,8.883945,22.24349,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00129,2.189399,5.622473,easy,warning
+3,yes,yes,turn_right,turn left,opposite_direction,no,no,no,no,no,yes,yes,30.0019,5.117968,24.16709,normal,warning
+1,no,yes,turn_right,straight,opposite_direction,yes,no,yes,no,no,no,yes,38.86337,6.117657,8.358892,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.82715,5.97166,19.76589,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,30.00049,3.389985,16.8196,hard,warning
+1,no,yes,stop,turn left,opposite_direction,no,no,yes,no,yes,no,yes,20.00001,0.6993132,5.762939,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00006,5.031545,13.4612,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,19.99987,5.110654,17.63188,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00169,6.131048,17.85763,normal,warning
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,50.0,1.657213,0.06857596,hard,danger
+1,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,12.64996,6.108807,9.801363,normal,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,yes,no,yes,yes,12.84467,4.323396,24.65522,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,25.68015,3.228717,5.679833,normal,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,66.04943,3.943596,22.58615,normal,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,8.480244e-05,1.741387,26.45151,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,29.38299,5.394317,11.69045,hard,warning
+1,yes,yes,reverse,straight,opposite_direction,no,yes,yes,no,no,yes,yes,0.0001366797,9.099277,5.054736,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00122,5.899923,18.09661,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,28.80021,0.9359517,52.46902,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,30.00009,5.720556,39.3846,hard,warning
+2,yes,yes,turn left,straight,same_direction,no,no,yes,no,yes,yes,yes,50.01295,0.4601355,12.78872,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00011,5.787498,21.06736,hard,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,3.749914,7.543759,14.34991,normal,warning
+1,yes,yes,turn left,stop,opposite_direction,no,no,yes,no,no,yes,yes,1.664187,4.591186,26.40713,hard,warning
+1,yes,yes,straight,stop,same_direction,no,yes,no,no,no,yes,yes,6.800191,2.291196,48.74682,easy,warning
+1,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,18.492,5.755971,42.323,hard,warning
+1,yes,yes,turn left,turn left,from_right,no,yes,no,no,yes,yes,yes,40.94417,1.5974,8.737995,hard,danger
+1,yes,yes,turn left,turn left,same_direction,no,no,yes,no,no,yes,yes,0.0001678917,4.793835,13.51379,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,34.8768,3.493667,17.61955,normal,warning
+1,yes,yes,straight,straight,from_right,no,yes,yes,no,no,yes,yes,20.5357,6.135647,38.94119,normal,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,27.26408,6.197747,18.30155,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00012,4.585746,1.385442,hard,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,2.629893,6.725158,13.61779,normal,warning
+2,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,50.01472,0.4768142,9.03686,normal,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,8.399938e-05,5.588759,5.867684,hard,warning
+1,yes,yes,straight,straight,from_right,yes,yes,yes,no,no,yes,yes,10.62016,4.846635,8.809587,normal,warning
+2,no,yes,reverse,straight,opposite_direction,no,no,no,no,no,no,no,20.0113,1.353993,19.62477,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,70.00007,1.64755,13.53329,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00123,1.093189,20.39791,easy,danger
+1,no,no,straight,turn left,same_direction,yes,no,no,no,no,no,yes,30.00003,7.208991,14.42774,normal,warning
+2,no,yes,reverse,straight,same_direction,no,no,no,no,no,no,no,22.9809,9.386915,15.49754,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,yes,10.03665,4.091342,17.37392,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00016,0.6179116,14.48738,easy,danger
+1,yes,yes,turn_right,straight,from_right,no,yes,no,no,no,yes,yes,14.21124,1.32243,20.33642,normal,danger
+2,yes,yes,straight,straight,opposite_direction,no,no,yes,no,yes,yes,no,17.71961,5.66853,12.36954,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,45.80561,5.765572,36.96834,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00014,6.460978,8.241125,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,50.00001,2.61204,23.2595,easy,warning
+1,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,50.00001,3.143896,5.206435,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,5.220256,5.070563,24.16677,hard,warning
+1,yes,no,turn_right,stop,opposite_direction,no,no,yes,no,yes,yes,yes,0.000187968,0.0,13.12836,hard,collision
+4,yes,no,turn left,turn left,from_left,no,no,yes,no,yes,no,yes,30.00001,2.847159,7.536542,hard,warning
+2,yes,yes,stop,turn left,from_left,no,no,no,no,no,no,no,5.67491e-05,5.306969,11.02115,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00068,0.01157141,50.79708,hard,danger
+1,no,yes,turn_right,straight,opposite_direction,no,no,yes,no,yes,no,yes,50.01419,0.979903,26.17937,easy,danger
+1,yes,yes,straight,stop,from_left,no,yes,yes,no,no,yes,yes,3.683314,9.40655,13.61779,normal,warning
+4,yes,no,stop,turn left,same_direction,no,no,no,no,yes,no,yes,30.00001,4.468542,5.96234,hard,warning
+2,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,0.003736447,6.358158,11.40858,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,39.42333,3.582602,41.27534,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,47.00064,5.478115,31.2612,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00005,5.845178,31.93546,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,0.0001665533,5.481565,26.38467,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00047,1.878603,14.63618,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.55106,4.999145,33.36975,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,19.28871,4.864217,13.45216,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.70046,0.08479774,36.22993,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00005,1.98013,24.86178,hard,danger
+1,yes,yes,stop,straight,from_left,yes,no,yes,no,no,no,yes,4.549891,7.084017,4.476313,hard,warning
+1,yes,yes,straight,stop,from_right,yes,yes,no,no,no,yes,yes,9.176223e-05,4.697104,16.42294,easy,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,yes,no,yes,yes,29.80647,4.980968,14.48688,hard,warning
+1,no,yes,turn left,turn left,same_direction,no,no,no,no,yes,yes,yes,30.00002,3.973062,9.277122,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0,2.332806,16.4535,hard,warning
+1,yes,yes,turn left,straight,opposite_direction,yes,no,no,no,yes,yes,yes,9.937691,4.230568,32.06857,hard,warning
+3,yes,yes,straight,straight,from_left,no,no,no,no,no,yes,yes,71.62164,0.0,7.838154,normal,collision
+2,yes,yes,straight,straight,same_direction,no,yes,no,no,yes,yes,yes,50.01273,0.9864197,27.66542,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,23.51703,5.974529,15.79856,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00098,3.121648,14.18197,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.0,2.953521,49.82216,easy,warning
+2,yes,yes,stop,turn_right,from_left,no,no,no,no,no,no,no,10.45518,5.799206,5.522056,hard,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,9.781191e-05,1.177572,18.57423,normal,danger
+1,yes,yes,straight,stop,from_right,yes,no,no,no,no,no,yes,25.00052,7.820848,18.30293,easy,warning
+1,no,yes,reverse,straight,opposite_direction,no,no,yes,no,no,no,yes,11.18618,6.046396,5.279787,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00044,1.555684,41.17137,easy,danger
+2,yes,yes,stop,turn_right,same_direction,no,no,no,no,yes,yes,yes,1.489446,9.549108,0.5961105,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,0.0001885569,0.8384571,27.74249,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,yes,no,yes,no,no,no,yes,30.00014,6.28128,9.766886,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00014,5.151115,10.44311,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00006,1.439243,30.50138,normal,danger
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,0.000173406,2.592741,0.02349037,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,9.085211e-05,1.375929,24.85993,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,21.99968,6.914297,32.91121,hard,warning
+1,yes,yes,straight,stop,opposite_direction,no,yes,no,no,no,no,yes,15.15907,5.256325,19.10431,easy,warning
+1,yes,yes,turn left,stop,opposite_direction,no,no,yes,no,no,yes,yes,10.98013,7.216192,25.74048,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00001,5.500943,10.37874,hard,warning
+1,yes,yes,straight,turn_right,from_left,no,no,no,no,no,no,no,21.77612,5.468195,2.237625,normal,warning
+3,yes,yes,straight,straight,from_left,no,no,yes,no,no,yes,yes,33.29747,6.790858,7.813245,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,61.59906,6.149184,0.1183424,hard,warning
+2,yes,no,turn left,stop,opposite_direction,no,no,yes,yes,no,yes,yes,0.08089197,5.610909,17.20617,easy,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,20.00004,6.586244,9.990593,easy,danger
+1,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,yes,yes,17.47173,0.8901563,6.021852,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00006,4.209913,29.97102,hard,warning
+1,yes,yes,turn left,straight,same_direction,no,no,no,no,no,no,no,50.0,6.831115,7.825071,normal,warning
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00065,5.880393,11.70286,easy,warning
+1,no,no,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00001,3.134932,25.99319,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,59.00022,1.758258,9.872237,hard,danger
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,34.57545,4.256667,12.2696,normal,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,13.66357,4.911067,17.81473,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,19.99991,5.578303,23.72878,easy,warning
+2,yes,no,turn left,turn left,from_left,no,no,yes,yes,yes,yes,yes,20.00001,2.172163,12.14454,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,30.99992,5.386122,28.66573,easy,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,20.00001,6.868524,8.193161,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.99912,5.419935,8.283839,hard,warning
+1,yes,yes,straight,straight,opposite_direction,no,yes,no,no,no,no,yes,50.00068,3.437491,14.11643,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00007,4.44423,4.908726,normal,warning
+1,no,yes,turn left,stop,opposite_direction,no,no,yes,no,yes,yes,yes,8.367816e-05,7.442664,42.10352,normal,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,39.00004,3.812726,13.46362,normal,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,33.00067,4.990739,8.132719,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,20.01396,5.325965,25.7754,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.01204,6.82421,21.34765,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,6.494025e-05,1.501546,25.9878,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,38.00016,2.153278,30.02885,hard,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,80.00002,5.948276,32.74042,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00094,5.068992,12.88561,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00022,1.431321,16.25091,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.0,1.776416,42.8982,normal,danger
+2,yes,yes,turn_right,straight,same_direction,no,no,no,yes,yes,yes,yes,20.00873,1.774709,49.06092,easy,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,48.69501,1.895805,14.34669,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00027,4.97801,35.55964,normal,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,50.00002,1.882588,14.39218,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00001,5.204688,27.65883,hard,warning
+1,no,yes,straight,stop,from_left,yes,no,no,no,yes,no,yes,0.0001824537,2.696534,9.826713,hard,warning
+3,yes,yes,straight,stop,same_direction,no,no,yes,no,no,yes,yes,4.866394,5.954673,5.450573,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,20.00003,2.981555,24.58378,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.01444,1.898211,38.22029,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,20.0005,4.420895,19.35508,hard,warning
+2,yes,no,turn left,stop,opposite_direction,no,no,yes,no,no,no,yes,28.23877,2.745162,7.860368,easy,warning
+1,no,no,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001085193,3.421539,29.16573,normal,warning
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,38.71568,4.412188,6.126771,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00037,2.733168,26.76102,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00056,1.823674,30.90965,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,39.67434,2.383147,11.96113,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00042,1.966433,12.41368,normal,danger
+2,yes,no,turn left,stop,opposite_direction,no,yes,yes,no,yes,yes,yes,0.0001409091,5.408057,30.12225,normal,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,14.63237,2.264554,14.17978,hard,warning
+1,yes,yes,turn_right,stop,opposite_direction,yes,no,yes,no,no,yes,yes,22.62928,0.0,15.51571,normal,collision
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,80.00056,6.318066,25.14451,easy,danger
+2,no,yes,reverse,straight,opposite_direction,no,no,yes,no,no,no,yes,20.01297,0.9260073,7.222858,normal,danger
+3,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,30.55348,1.124411,3.650496,easy,warning
+1,no,no,straight,stop,same_direction,no,no,no,no,no,no,no,15.43105,8.068768,10.37181,normal,warning
+1,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,9.080123,2.608659,25.61346,hard,warning
+4,yes,no,turn left,turn left,opposite_direction,no,no,yes,yes,no,yes,yes,30.00037,3.114797,1.597061,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.0,4.729805,43.20142,hard,warning
+2,yes,no,reverse,turn_right,from_right,no,no,yes,yes,yes,yes,yes,26.19289,0.1914828,7.206856,easy,danger
+1,no,yes,straight,turn_right,from_left,no,no,no,no,no,no,no,32.68312,6.028672,3.406171,hard,warning
+3,yes,yes,straight,stop,same_direction,no,no,no,no,no,yes,yes,6.800072,4.920406,27.60656,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00322,4.84027,8.132678,hard,warning
+1,yes,yes,turn left,turn left,same_direction,no,no,yes,no,no,yes,yes,0.0001628592,7.93669,13.49107,hard,warning
+2,yes,yes,turn left,turn_right,from_left,no,no,no,no,no,no,no,50.00001,6.861067,8.519126,normal,warning
+1,no,yes,reverse,straight,opposite_direction,yes,no,no,no,no,no,yes,50.00001,1.937342,4.811417,hard,danger
+1,no,yes,straight,stop,same_direction,yes,no,no,no,no,no,yes,9.251175e-05,6.183412,26.80957,easy,warning
+1,yes,yes,straight,stop,from_right,no,yes,no,no,no,yes,yes,9.385017e-05,4.460152,14.2429,easy,warning
+1,yes,yes,stop,straight,from_left,yes,no,yes,no,no,no,yes,6.72016,6.487751,0.8502198,hard,warning
+2,yes,no,turn left,turn left,opposite_direction,no,yes,yes,no,no,no,yes,30.00023,1.506425,18.24195,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00007,4.156907,54.79886,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,no,no,3.55205,6.304469,14.64902,hard,warning
+1,yes,yes,turn left,turn left,from_left,yes,no,no,no,yes,yes,yes,17.22846,1.806429,12.50973,hard,danger
+2,yes,yes,stop,straight,from_left,no,no,no,no,no,no,no,13.45902,6.670794,5.670006,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00002,4.739503,11.05985,hard,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,1.440164,8.508021,13.99907,normal,warning
+1,no,yes,turn left,turn left,from_left,no,no,no,no,no,yes,yes,33.73192,5.351733,0.004122747,easy,danger
+1,no,no,turn left,stop,same_direction,no,no,no,no,no,no,no,0.0001808476,1.543287,9.472696,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,47.93333,6.396507,26.71853,hard,warning
+1,yes,yes,straight,stop,from_left,yes,no,yes,no,no,yes,yes,8.410645e-05,7.387022,7.011931,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,70.0,6.748171,7.936559,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,38.40951,4.978812,11.07277,hard,warning
+1,yes,yes,turn_right,stop,from_right,no,no,no,no,no,yes,yes,6.660027,3.119678,20.55344,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,27.00153,1.746037,62.18987,normal,danger
+4,yes,no,turn left,turn left,opposite_direction,no,no,yes,yes,yes,no,yes,20.6701,5.970638,4.191625,hard,warning
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,13.32014,5.041242,24.95488,hard,warning
+2,no,yes,reverse,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00089,3.1523,16.07994,normal,warning
+1,no,yes,reverse,stop,from_right,yes,no,no,no,yes,no,yes,20.88263,0.3192724,7.044104,hard,danger
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001031648,1.492097,11.33531,normal,danger
+3,yes,yes,turn_right,straight,same_direction,no,no,no,no,no,yes,yes,43.14199,6.958981,16.70562,hard,warning
+1,no,yes,turn left,straight,opposite_direction,yes,no,yes,no,no,no,yes,60.00002,1.585607,10.80759,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,49.14011,4.853874,52.44689,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,21.20041,1.906946,18.58979,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,49.99995,2.569918,2.003569,easy,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,19.46625,6.203602,11.61471,normal,warning
+2,no,yes,turn_right,straight,same_direction,no,no,no,no,no,no,no,17.84563,6.316675,17.01104,hard,warning
+1,yes,yes,straight,stop,opposite_direction,no,yes,yes,no,no,yes,yes,1.923439,5.8921,17.62881,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,14.3138,4.704487,30.48582,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00069,4.34795,52.24597,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,43.00173,5.58434,35.3881,easy,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00002,5.187333,22.08481,hard,warning
+4,yes,no,turn left,turn left,from_left,no,no,yes,yes,yes,yes,yes,30.0001,1.384512,15.46606,hard,danger
+1,yes,yes,straight,stop,same_direction,no,yes,yes,no,no,yes,yes,5.040164,1.998211,34.47849,easy,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00027,5.125215,20.9567,hard,warning
+1,no,yes,turn left,stop,from_right,no,no,no,no,yes,no,yes,50.00078,3.100308,5.97938,hard,warning
+1,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00003,0.9054928,0.007124136,normal,danger
+1,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,no,yes,50.01274,5.112159,2.126818,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,31.90543,2.378234,33.24365,hard,warning
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,23.75331,5.930769,0.5355647,hard,warning
+2,no,yes,turn left,straight,same_direction,no,no,no,no,yes,no,yes,66.00521,0.1890483,11.94006,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0032,3.248633,6.926713,easy,warning
+1,no,yes,turn left,straight,opposite_direction,no,no,no,no,yes,no,yes,14.04728,3.410749,4.7629,hard,warning
+1,yes,no,turn_right,stop,opposite_direction,no,no,yes,no,yes,yes,yes,0.0001726029,0.3930149,15.13384,hard,danger
+3,yes,no,turn_right,turn_right,same_direction,yes,no,no,yes,yes,yes,yes,14.78346,5.260089,12.59118,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,38.2836,1.47762,27.63694,easy,danger
+1,no,no,straight,stop,same_direction,no,no,no,no,no,no,no,13.75445,4.396424,9.472696,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,yes,no,yes,no,yes,50.00002,5.392598,4.172024,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00025,6.153788,15.85815,hard,warning
+2,no,yes,turn left,straight,from_right,no,no,yes,no,yes,yes,yes,70.0,1.484005,6.391389,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,16.1718,2.203867,17.9068,hard,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,38.01394,1.989188,16.79686,normal,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00047,0.9590905,21.99634,hard,danger
+2,yes,yes,stop,turn_right,same_direction,no,no,no,no,yes,yes,yes,20.0,3.784976,3.77187,normal,warning
+2,yes,yes,turn_right,straight,same_direction,no,no,no,no,yes,no,no,44.27693,0.8280985,29.09901,normal,danger
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00599,5.566882,11.05052,normal,warning
+1,yes,yes,turn left,turn_right,from_left,yes,yes,yes,no,yes,yes,yes,17.56294,3.317845,11.38314,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00202,1.505425,27.18951,hard,danger
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,yes,yes,yes,20.0,4.718963,6.353977,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,3.387252,8.845236,10.97766,normal,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,60.00001,2.50634,20.63588,hard,warning
+1,yes,yes,turn left,stop,same_direction,no,no,no,no,no,yes,yes,29.11648,1.249469,3.662973,easy,warning
+1,no,yes,stop,stop,from_left,no,no,no,no,yes,no,yes,0.0004764248,1.095276,5.233219,hard,danger
+1,yes,yes,stop,straight,same_direction,no,no,no,no,no,no,no,0.0001790809,4.67873,3.924875,normal,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,0.0001531155,1.869632,28.20557,hard,danger
+2,no,yes,turn left,turn left,same_direction,no,no,no,no,no,no,no,50.0,5.114751,24.76385,hard,warning
+2,no,yes,turn_right,straight,opposite_direction,no,no,yes,no,no,no,yes,50.0,5.677831,42.33218,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00001,3.232928,32.47553,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,23.22298,5.143094,14.7965,hard,warning
+2,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,20.00003,5.555396,5.044397,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,0.0001936429,5.870939,19.29601,hard,warning
+1,yes,no,turn_right,stop,opposite_direction,no,no,yes,no,yes,yes,yes,2.435929e-05,6.227285,6.992111,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00083,5.226219,29.47851,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,63.81206,2.340965,19.3299,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00036,3.445601,18.29808,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00052,1.122764,47.96721,easy,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,19.99991,7.064449,13.3167,hard,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,yes,no,yes,20.95897,1.94018,4.134002,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00067,6.555094,20.26371,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.0,6.041896,27.60161,hard,warning
+1,yes,yes,stop,straight,same_direction,no,no,yes,no,no,no,yes,0.0001216358,7.71324,5.415128,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,20.00006,5.20173,15.38218,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00065,4.950009,18.43041,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,40.83114,5.698434,9.849735,hard,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,yes,no,yes,11.93008,6.785162,4.134002,hard,warning
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00024,8.682516,12.81956,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,10.06975,3.935416,18.1273,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,54.30617,6.218025,17.42835,hard,warning
+2,no,yes,turn_right,turn left,opposite_direction,no,no,no,no,no,no,no,33.62404,6.895371,23.4332,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00121,5.32938,12.77213,normal,warning
+2,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,5.360576,1.837122,11.88583,hard,danger
+4,yes,no,straight,turn left,same_direction,no,no,no,no,no,no,no,50.0005,3.046367,10.09774,hard,warning
+1,yes,yes,turn_right,straight,opposite_direction,no,no,no,no,no,no,no,50.01112,4.63011,25.49916,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,13.73149,6.098302,12.56032,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0001,5.398769,22.61344,hard,warning
+2,no,yes,stop,straight,opposite_direction,no,no,no,no,yes,no,yes,25.4617,4.067263,3.773043,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0006,5.586459,28.4641,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00005,5.960203,20.32755,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00052,1.638507,28.31565,normal,danger
+1,yes,yes,straight,turn left,same_direction,no,no,no,no,no,no,no,14.6112,4.260915,38.98193,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,4.772258,1.63035,19.2063,hard,danger
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,yes,no,yes,7.998412e-05,1.958316,40.97778,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00001,0.196188,17.51269,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.0001,1.174227,43.85646,normal,danger
+3,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,12.18416,4.783414,25.53126,hard,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,7.046145,3.980165,15.44319,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,yes,50.00036,2.271735,22.82942,hard,warning
+1,yes,yes,turn_right,stop,opposite_direction,yes,no,yes,no,no,yes,yes,2.896346e-05,9.253887,15.60943,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,39.45342,2.365166,11.03119,easy,warning
+2,no,yes,reverse,straight,same_direction,no,no,no,no,no,no,no,23.00905,2.68689,16.56284,normal,warning
+1,yes,no,turn_right,stop,same_direction,no,no,no,no,no,yes,yes,30.00476,8.270711,34.42382,normal,warning
+1,yes,yes,straight,stop,from_right,no,no,no,no,no,no,no,0.0001599147,8.612164,19.47701,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,20.0,1.227817,23.81955,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,yes,no,yes,no,yes,24.00005,4.590871,13.90392,normal,warning
+1,yes,no,turn_right,stop,opposite_direction,no,no,yes,no,yes,yes,yes,0.0001187448,1.408898,10.90426,hard,danger
+3,no,yes,straight,straight,same_direction,no,no,no,no,yes,yes,yes,80.00062,4.800118,18.618,hard,warning
+3,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,57.0013,3.935243,19.17993,easy,danger
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,19.79828,2.577866,16.53352,hard,warning
+3,no,yes,straight,turn_right,same_direction,yes,no,no,no,no,no,yes,68.83159,5.949578,6.465892,normal,warning
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00002,5.613303,13.03914,hard,warning
+2,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,1.782779e-05,6.584373,35.32186,normal,warning
+4,yes,no,stop,turn left,from_left,yes,no,no,no,no,no,yes,18.50369,6.359977,4.660961,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,37.58525,1.503385,14.00211,easy,danger
+1,yes,yes,straight,stop,same_direction,no,yes,no,no,no,yes,yes,50.01105,4.978945,7.216736,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00035,1.937771,15.0207,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,31.91133,0.8516786,8.609817,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00039,2.095929,19.72896,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.01031,5.646861,25.66324,easy,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,19.26017,4.427296,26.4893,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,28.1829,6.53773,19.12708,hard,warning
+1,no,yes,turn left,stop,opposite_direction,no,no,yes,no,yes,yes,yes,7.709312e-05,4.04724,42.10352,normal,warning
+2,no,yes,reverse,straight,same_direction,no,no,yes,no,no,no,yes,30.14244,4.581828,7.387837,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00025,0.1112635,13.11014,hard,danger
+1,yes,yes,straight,turn_right,same_direction,no,no,no,no,no,yes,yes,50.0,0.0,14.61473,hard,collision
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00001,6.859048,13.38199,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,yes,yes,50.01273,1.030489,15.06031,normal,danger
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,yes,yes,19.087,5.97626,16.76724,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,24.3203,5.212889,19.27937,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0,2.815574,30.97118,hard,warning
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00001,5.909438,13.19489,normal,warning
+1,no,yes,turn left,turn left,same_direction,no,no,yes,no,no,yes,yes,28.00003,3.30492,9.926165,normal,warning
+1,yes,no,turn_right,stop,from_right,no,no,no,no,yes,yes,yes,0.0001717999,3.709733,5.454747,hard,warning
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00295,2.824529,16.34663,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.08755,8.121423,10.89462,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00027,2.160649,12.57126,normal,warning
+2,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,36.49958,2.801895,7.237628,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00036,5.336512,22.32667,hard,warning
+1,no,yes,turn_right,straight,from_right,no,no,no,no,yes,yes,yes,10.02982,7.214963,16.57654,normal,warning
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,yes,yes,yes,1.167104e-05,6.414828,24.01978,normal,warning
+1,yes,yes,stop,stop,from_left,yes,no,yes,no,no,no,yes,50.01443,2.090776,6.518514,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.0001,1.661766,25.34249,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,48.77818,3.920952,14.04449,hard,warning
+2,yes,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,22.0,7.002903,8.881489,normal,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00004,5.791648,9.886101,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.01117,1.38062,20.79328,hard,danger
+2,yes,yes,turn_right,straight,from_left,no,no,no,no,no,yes,yes,50.01444,4.42558,12.40911,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,8.871063e-05,1.055213,28.88798,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.0001,4.597715,18.95275,hard,warning
+3,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,26.00167,6.324941,9.987628,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,24.0,6.306672,40.69761,easy,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0,5.074455,22.15544,hard,warning
+2,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,29.0,2.640181,45.64335,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.01324,1.22525,10.05788,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,21.6708,3.747641,25.0654,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,3.132171,4.644223,18.84912,hard,warning
+2,yes,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,50.00009,1.310565,0.2578331,normal,danger
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,20.01412,5.107209,9.270553,hard,warning
+2,yes,yes,turn left,turn_right,opposite_direction,no,no,yes,yes,no,yes,yes,47.33048,4.10202,24.86985,hard,warning
+2,yes,yes,turn left,straight,same_direction,no,no,yes,no,yes,yes,yes,10.50427,2.557883,10.76159,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,yes,50.00647,5.845142,6.726705,normal,warning
+4,yes,no,turn left,turn left,from_left,no,no,yes,yes,yes,no,yes,29.69667,5.954054,11.08357,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00001,3.924247,28.46118,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,65.77353,4.823839,13.2304,hard,warning
+1,yes,yes,straight,stop,from_left,no,yes,yes,no,no,yes,yes,2.98493,0.0,16.15177,normal,collision
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,49.99998,1.811035,25.34796,hard,danger
+1,yes,yes,straight,stop,opposite_direction,no,yes,yes,no,no,yes,yes,6.496152,2.406563,15.58372,normal,warning
+2,yes,yes,turn_right,straight,from_left,no,no,yes,no,no,yes,yes,10.36003,1.177612,55.35294,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,10.62358,2.033896,17.36621,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.03449,7.613338,17.73328,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,48.56168,4.792508,45.03305,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,40.0,6.42317,14.75235,hard,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,yes,yes,12.72967,1.185483,11.25555,hard,danger
+2,yes,no,turn left,stop,opposite_direction,no,yes,yes,no,yes,yes,yes,0.0001643047,1.382426,31.22148,normal,danger
+1,yes,yes,straight,straight,from_left,no,no,no,no,no,yes,yes,7.772083,4.102992,7.72769,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,35.92624,2.79897,13.75919,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00138,6.583122,18.90667,hard,warning
+2,yes,no,turn left,turn_right,same_direction,no,no,yes,yes,no,yes,yes,11.34573,1.801466,23.34663,hard,danger
+4,yes,no,reverse,turn left,from_left,no,no,yes,yes,yes,no,yes,20.01033,7.07548,7.209851,hard,warning
+2,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,8.217913e-05,5.629166,41.00376,normal,warning
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,17.56909,0.0,7.72769,hard,collision
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,1.943389e-05,1.419899,30.94893,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,39.81432,0.9472566,18.0961,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00335,5.596757,20.80689,hard,warning
+1,no,yes,reverse,stop,from_right,yes,no,no,no,yes,no,yes,8.6342,5.72668,7.044104,hard,warning
+2,yes,yes,stop,straight,from_left,no,no,no,no,no,no,no,26.04667,3.758908,0.04342607,normal,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,17.45435,3.290029,4.088377,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00047,6.455789,22.85781,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0,6.813615,21.277,normal,warning
+1,yes,yes,turn_right,stop,opposite_direction,no,no,no,no,no,no,no,9.540135,3.068386,24.82622,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,yes,no,no,no,yes,0.0001358231,5.46233,16.03346,hard,warning
+2,yes,yes,turn_right,straight,opposite_direction,no,no,yes,no,yes,yes,yes,9.539656,2.77802,10.17878,normal,warning
+1,yes,yes,straight,straight,from_left,yes,yes,yes,no,no,yes,yes,15.30529,4.221374,11.82139,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.0,2.050399,35.30239,normal,warning
+1,yes,yes,turn left,stop,opposite_direction,no,no,yes,no,yes,yes,yes,15.58158,1.858087,16.22409,normal,danger
+1,no,yes,turn left,turn left,same_direction,no,no,yes,no,no,no,yes,15.05522,7.747608,9.926165,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00928,3.193534,20.56203,hard,warning
+1,yes,yes,reverse,stop,from_right,no,yes,yes,no,no,yes,yes,10.16815,6.478309,5.601535,normal,warning
+1,no,yes,straight,straight,from_right,no,no,no,no,no,no,no,47.0,7.074998,37.96859,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,35.69905,0.9227312,7.230279,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,24.00016,5.159587,48.7534,hard,warning
+1,no,yes,straight,turn_right,opposite_direction,no,no,no,no,no,no,no,37.21273,5.791638,6.395144,normal,warning
+2,yes,no,turn left,straight,opposite_direction,no,no,yes,yes,no,yes,yes,0.02839795,2.110759,16.41008,easy,warning
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,yes,yes,yes,43.18187,1.680692,16.21419,normal,danger
+1,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,39.13633,0.7835736,20.30265,hard,danger
+2,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,41.00086,7.257113,10.04819,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,63.29787,5.925203,10.61636,hard,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,14.48742,8.031925,12.36249,hard,warning
+1,no,yes,stop,turn left,opposite_direction,no,no,no,no,yes,no,yes,30.00001,1.542379,4.131727,normal,danger
+2,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,31.00118,3.565828,10.44713,normal,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001502781,5.273664,6.390887,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,12.96004,6.247998,14.63618,hard,warning
+3,yes,yes,turn_right,turn_right,from_left,no,no,no,no,no,no,no,58.53977,3.685716,5.606509,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00027,4.856176,23.5864,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,50.00001,1.94479,24.59147,easy,danger
+1,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,yes,yes,19.07107,0.819664,8.065883,hard,danger
+1,yes,yes,straight,stop,from_right,no,no,no,no,no,no,no,2.457343e-05,8.514274,39.30949,easy,danger
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001409626,4.211483,6.199105,normal,warning
+3,yes,yes,turn_right,straight,same_direction,no,no,no,no,no,yes,yes,57.38188,0.9936857,25.36825,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,14.27922,1.253241,40.39049,normal,danger
+2,yes,yes,turn_right,stop,opposite_direction,no,no,no,no,no,yes,yes,30.00002,6.074019,13.75713,normal,warning
+1,yes,yes,turn left,turn_right,same_direction,no,no,yes,no,no,yes,yes,4.500144,6.840377,26.02699,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,22.08989,5.221604,26.9678,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00033,0.3815027,11.39491,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00003,5.088936,52.02833,normal,warning
+2,yes,yes,turn_right,straight,from_left,no,no,no,no,no,yes,yes,50.00002,3.073284,10.44774,normal,warning
+1,yes,yes,turn_right,stop,from_right,no,no,no,no,no,yes,yes,8.82045,5.121523,16.98846,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,38.50702,1.357291,8.523638,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00015,3.10793,28.82589,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,9.090564e-05,1.735145,16.29924,normal,danger
+1,yes,yes,straight,straight,from_left,no,no,no,no,no,yes,yes,4.486391e-05,4.850433,10.80274,hard,warning
+1,no,no,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001808476,0.7385163,11.93031,normal,danger
+1,no,yes,reverse,stop,from_right,yes,no,no,no,yes,no,yes,27.83237,0.0,7.044104,hard,collision
+3,yes,yes,turn_right,turn left,same_direction,no,no,no,yes,yes,yes,yes,30.00001,4.391139,24.90041,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00135,6.090847,28.09404,hard,warning
+2,yes,no,turn left,straight,same_direction,no,no,no,yes,yes,yes,yes,54.5284,7.097427,34.48977,easy,warning
+2,yes,no,straight,turn left,from_right,yes,no,no,no,no,no,yes,30.00004,5.223291,4.58253,hard,warning
+1,yes,yes,straight,stop,from_right,no,no,no,no,no,no,no,1.208937,7.848035,18.84777,normal,warning
+2,no,yes,reverse,straight,opposite_direction,no,no,no,no,yes,no,yes,22.00037,8.263029,7.048545,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,0.0001107678,6.641286,22.8768,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,yes,no,yes,no,no,no,yes,30.00008,6.260446,8.318939,hard,warning
+1,no,yes,reverse,straight,same_direction,no,no,no,no,no,no,no,50.00051,2.008335,5.617598,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,32.00037,1.085812,26.9678,hard,danger
+1,no,yes,turn left,straight,from_right,no,no,no,no,yes,no,yes,16.58744,3.208391,5.098347,hard,warning
+4,yes,no,straight,turn left,opposite_direction,no,no,yes,yes,no,no,yes,20.00012,4.075781,20.99626,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,48.96665,4.642561,1.805008,normal,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001623238,0.0,19.34384,hard,collision
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00069,1.22038,41.88564,hard,danger
+2,no,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,49.99999,6.030345,23.58083,hard,warning
+2,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,0.0001315937,3.4439,32.67803,normal,warning
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,yes,no,yes,5.016407e-05,5.12197,35.82084,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.01301,2.591696,21.74838,hard,warning
+1,yes,yes,straight,reverse,same_direction,no,no,no,no,no,no,no,2.588886,6.912187,11.77995,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.01766,5.265755,24.40322,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,40.74077,0.03627074,27.26467,normal,danger
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,yes,40.00038,1.703174,22.82942,hard,danger
+4,yes,no,reverse,turn left,same_direction,no,no,no,no,yes,no,yes,30.00001,5.408536,4.681789,hard,warning
+2,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,8.330341e-05,6.063768,38.48025,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.01272,1.11729,26.85103,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,36.00666,5.803842,18.4882,hard,warning
+1,yes,yes,straight,turn_right,same_direction,no,yes,no,no,no,yes,yes,20.00036,5.744356,43.16699,easy,warning
+2,yes,no,turn left,straight,opposite_direction,no,no,yes,yes,no,yes,yes,0.005918663,5.698103,16.41008,easy,warning
+1,no,yes,turn_right,straight,from_right,no,no,no,no,yes,yes,yes,11.97854,4.583284,16.57654,normal,warning
+2,yes,no,reverse,stop,same_direction,no,no,no,no,no,no,no,0.0001432647,6.073698,4.539674,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00189,5.45075,26.13785,hard,warning
+2,yes,yes,straight,turn_right,from_right,no,no,no,no,no,no,no,36.00035,3.575412,45.37139,normal,warning
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00317,3.014622,9.138526,normal,warning
+2,yes,no,turn left,stop,opposite_direction,no,no,yes,no,no,no,yes,21.9948,2.16329,7.05322,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0,2.22942,19.48137,normal,warning
+1,yes,yes,turn left,turn left,opposite_direction,no,no,no,no,no,no,no,50.0,3.104975,12.60675,normal,warning
+1,yes,yes,turn left,stop,opposite_direction,no,yes,yes,no,yes,yes,yes,6.349476e-05,5.218605,14.29048,easy,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,no,49.95893,4.477522,45.80173,easy,warning
+1,no,yes,straight,stop,same_direction,no,no,yes,no,no,no,yes,50.0,4.611836,11.9228,hard,warning
+2,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,20.01101,2.478298,8.140699,easy,warning
+1,yes,yes,straight,straight,opposite_direction,no,yes,no,no,no,yes,yes,50.0015,1.713654,41.03718,easy,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,yes,20.00067,1.280878,25.46449,normal,danger
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00008,9.070452,22.5053,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,10.3593,6.063012,14.8813,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,26.86474,0.940098,40.22878,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00001,5.649384,29.0551,hard,warning
+1,no,yes,turn left,straight,same_direction,yes,no,yes,no,yes,no,yes,49.00042,6.686215,3.658273,hard,warning
+1,yes,yes,turn left,stop,opposite_direction,no,no,yes,no,no,yes,yes,3.113812,7.328142,25.57729,hard,warning
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00106,0.9681976,9.866967,easy,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,14.25071,0.3420634,22.96415,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,yes,yes,20.00004,2.965668,54.09369,easy,warning
+1,yes,yes,straight,stop,from_left,no,yes,yes,no,no,yes,yes,8.87641,4.648219,13.61779,normal,warning
+1,no,yes,reverse,straight,opposite_direction,no,no,yes,no,no,no,yes,9.20013,0.4053679,13.64014,normal,danger
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00167,3.578397,28.96766,hard,warning
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00073,2.345753,29.2971,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,yes,yes,50.00652,2.295857,9.391122,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00033,2.352667,31.89266,easy,warning
+3,yes,yes,straight,straight,from_right,no,no,yes,no,no,yes,yes,33.0,2.943999,14.32109,hard,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00009,6.003221,21.76555,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,25.00027,1.43216,5.585012,easy,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,46.75645,2.952729,17.35028,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,50.00008,3.778878,30.80666,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,0.0001235096,1.1803,16.79852,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,37.00011,6.455748,22.25887,hard,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,29.78407,8.140338,13.42058,hard,warning
+2,yes,yes,turn left,stop,opposite_direction,no,no,no,no,no,yes,yes,3.797695e-05,7.291228,26.90647,normal,warning
+2,no,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,49.08253,3.962202,18.26524,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,32.00512,1.010032,37.99713,hard,danger
+1,yes,yes,turn left,straight,opposite_direction,no,yes,yes,no,no,yes,yes,0.0001716393,6.044892,11.25522,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,63.61945,7.507595,6.657999,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00017,1.842215,12.17866,hard,danger
+3,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.0,0.2523708,11.46825,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,50.00003,3.436097,16.05984,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,38.79812,5.864489,8.353476,hard,warning
+1,no,yes,turn left,stop,from_left,yes,no,yes,no,yes,no,yes,16.49958,2.253365,14.15739,hard,warning
+1,yes,yes,turn left,straight,same_direction,yes,no,no,no,no,yes,yes,25.06521,2.015672,58.82146,hard,warning
+2,no,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,50.00636,2.406491,8.025671,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.06146,5.30667,16.98833,hard,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,yes,no,yes,yes,30.00043,0.0,14.6982,hard,collision
+2,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,70.00883,7.20678,21.9106,easy,warning
+4,yes,no,stop,turn left,same_direction,no,no,no,no,yes,no,yes,20.0,6.753316,10.4512,hard,warning
+2,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,10.30348,3.157008,18.10967,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,35.49105,4.557209,7.230279,hard,warning
+1,yes,yes,turn_right,stop,from_right,yes,no,yes,no,no,yes,yes,11.70001,3.185462,15.60943,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,yes,50.0,1.620489,7.248505,hard,danger
+2,yes,no,turn left,turn left,from_right,yes,no,no,no,no,no,yes,21.00003,6.495337,2.392303,hard,warning
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00035,1.774078,17.08373,normal,danger
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,65.08662,1.693047,13.6395,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,22.6741,6.099822,20.56397,easy,warning
+3,yes,yes,turn_right,turn left,same_direction,no,no,no,yes,yes,yes,yes,30.01218,3.129439,17.99339,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00008,1.342669,13.60546,normal,danger
+1,yes,yes,stop,stop,opposite_direction,yes,no,yes,no,no,no,yes,14.04005,4.847346,6.545002,hard,warning
+2,no,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,17.572,2.440918,18.54597,hard,warning
+2,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,50.01444,4.762144,12.7309,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00095,1.241067,40.07993,hard,danger
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.0002,3.329011,19.23621,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,24.41225,2.852534,21.68555,hard,warning
+1,yes,yes,turn_right,stop,opposite_direction,no,yes,no,no,no,yes,yes,8.737221e-05,0.0,53.82674,easy,collision
+1,yes,no,turn_right,straight,same_direction,yes,no,no,no,no,yes,yes,39.70068,5.522492,15.96224,normal,warning
+1,yes,yes,turn left,straight,same_direction,no,no,no,no,no,no,no,0.0001652148,7.375925,10.62244,hard,warning
+1,yes,yes,turn left,stop,from_left,no,no,no,no,yes,yes,yes,0.0001350736,0.3102345,7.718075,hard,danger
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,50.01756,2.979836,16.13215,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,39.2739,6.067734,26.1881,hard,warning
+1,yes,no,turn_right,stop,from_right,no,no,no,no,yes,yes,yes,0.0001433183,5.260746,5.454747,hard,warning
+1,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,11.58042,5.993151,5.220073,easy,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00074,3.337383,77.03819,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00031,0.3978373,5.191795,easy,danger
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,no,no,0.0001879145,5.191324,10.27626,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.81161,0.5613236,33.62012,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,15.29698,4.151912,12.54014,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,yes,50.00001,3.47579,29.49373,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,0.0001564348,1.995991,20.87271,normal,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00025,5.231518,18.85498,hard,warning
+2,yes,no,turn left,stop,opposite_direction,no,no,yes,yes,no,no,yes,0.001828486,5.954663,26.66844,easy,warning
+3,yes,no,turn_right,turn_right,same_direction,yes,no,no,yes,yes,yes,yes,17.45668,4.012788,11.20111,normal,warning
+2,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,25.001,3.74512,7.236455,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00022,4.185894,12.64515,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00895,6.724568,9.554317,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,40.47886,6.203129,19.54663,normal,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,9.069149e-05,2.521653,26.00399,hard,warning
+1,yes,yes,straight,stop,same_direction,no,yes,no,no,no,yes,yes,0.0001699796,0.9784067,41.3693,hard,danger
+2,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.01277,2.738081,10.20321,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,34.86937,1.870957,36.62552,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,23.00142,3.850693,10.47664,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,24.00001,1.465301,22.82566,hard,danger
+1,no,yes,straight,straight,same_direction,no,yes,yes,no,no,yes,yes,30.36705,3.878646,4.019976,normal,warning
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,19.82198,5.031631,24.48537,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,60.0,7.627963,26.64483,hard,warning
+1,yes,yes,straight,straight,opposite_direction,no,yes,yes,no,no,yes,yes,17.93595,6.835993,16.62675,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,19.99999,5.239832,22.07723,hard,warning
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00632,5.282128,23.95515,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00103,1.839042,34.68747,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,8.924599e-05,1.487029,26.00399,hard,danger
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,50.0,5.464549,16.23881,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00014,4.992235,30.84151,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00001,5.645825,42.1886,easy,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,7.773041,1.302661,40.22878,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,23.00137,1.380008,10.55561,normal,danger
+2,no,yes,turn left,straight,same_direction,no,no,no,no,yes,no,yes,9.749068e-05,1.608451,9.974489,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00143,4.062404,5.587487,easy,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,yes,33.85323,3.952518,29.9252,normal,warning
+1,yes,no,turn_right,stop,from_right,no,no,no,no,yes,yes,yes,0.0001719605,5.184308,5.914871,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.0002,0.6649969,14.16184,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00171,1.778467,20.90059,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,yes,yes,14.44214,0.7930176,51.55924,easy,danger
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,yes,yes,49.00763,5.113708,6.92593,easy,warning
+1,yes,yes,straight,stop,same_direction,no,no,yes,no,no,no,yes,6.214138,2.260441,6.424437,normal,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,47.93621,1.774305,17.09921,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0002,0.2726808,15.82714,hard,danger
+1,yes,yes,straight,straight,same_direction,no,yes,no,no,no,yes,yes,0.0001638764,1.088045,19.68114,hard,danger
+4,yes,no,turn left,turn left,from_left,no,no,yes,yes,yes,no,yes,30.00866,4.590747,10.59411,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,40.75536,0.9671309,34.87519,normal,danger
+1,yes,yes,straight,stop,from_left,no,no,yes,no,no,yes,yes,2.580478e-05,9.42824,28.31223,easy,warning
+3,yes,no,turn_right,turn_right,same_direction,yes,no,no,yes,yes,yes,yes,15.33267,6.459002,11.43713,normal,warning
+2,no,yes,reverse,straight,opposite_direction,yes,no,yes,no,no,no,yes,50.00599,6.034851,8.999524,normal,warning
+2,yes,no,turn left,turn left,opposite_direction,no,no,yes,yes,no,yes,yes,20.00986,2.394601,20.32028,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00089,4.056319,5.314723,easy,warning
+1,yes,yes,turn left,straight,same_direction,yes,yes,no,no,no,yes,yes,17.56,2.300888,35.60961,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.11872,1.549895,15.56643,hard,danger
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,0.0001158003,1.471037,33.96692,normal,danger
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,20.00007,6.089809,14.67955,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00001,6.22459,20.31737,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00048,6.298364,14.10349,normal,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001423011,1.412463,13.51179,easy,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,29.99984,5.240925,19.73832,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,yes,yes,25.64018,0.9934225,7.366423,easy,danger
+2,yes,yes,straight,turn_right,opposite_direction,no,yes,no,no,yes,yes,yes,27.76668,3.087946,9.535527,normal,warning
+2,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,yes,yes,38.38638,5.724251,23.98493,normal,warning
+1,yes,yes,turn left,turn_right,from_left,yes,yes,yes,no,yes,yes,yes,18.70499,8.746949,9.925986,normal,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0171,1.020547,19.16531,hard,danger
+2,no,yes,reverse,straight,same_direction,no,no,yes,no,yes,yes,yes,30.24891,5.827183,9.488528,normal,warning
+2,yes,yes,turn_right,turn_right,same_direction,no,no,no,yes,yes,yes,yes,19.61112,3.647576,10.52107,normal,warning
+1,yes,yes,stop,turn left,from_right,no,no,no,no,no,no,no,35.87368,3.199039,6.5295,normal,warning
+3,yes,no,turn_right,turn_right,same_direction,yes,no,no,yes,yes,yes,yes,17.4566,6.472762,11.20111,normal,warning
+1,yes,yes,straight,stop,opposite_direction,no,yes,no,no,no,yes,yes,0.0001038616,4.603765,23.18033,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00001,6.004971,37.14491,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,2.318147e-05,5.436884,23.76326,normal,warning
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,11.088,5.574304,0.0003773956,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.0164,4.532395,25.34249,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00376,2.012447,10.15206,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,36.00327,2.528693,10.20224,easy,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.0001,6.018145,18.0512,hard,warning
+3,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,10.03953,7.960764,1.993657,easy,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,33.13214,5.797956,13.72405,hard,warning
+2,yes,no,turn left,turn left,opposite_direction,yes,no,yes,yes,no,yes,yes,30.00002,1.927932,17.60715,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00001,2.220525,28.33985,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,6.986564e-05,1.644185,25.36514,hard,danger
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,3.360144,4.295821,15.27914,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,28.30012,5.399479,4.314773,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00001,1.688708,18.63791,normal,danger
+2,yes,yes,turn_right,straight,opposite_direction,no,no,yes,no,yes,yes,yes,50.0,7.425798,19.04179,normal,warning
+4,yes,no,turn left,turn left,from_left,no,no,yes,yes,yes,no,yes,30.0,2.659178,11.08357,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.0003,0.78547,13.26472,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,47.53256,6.273146,4.963442,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00007,1.769961,15.19574,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,1.499033e-05,6.098554,17.71853,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,43.11777,6.037224,25.20258,hard,warning
+1,yes,yes,straight,stop,same_direction,no,no,no,no,no,no,no,18.84011,0.0,22.96415,hard,collision
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,6.060376e-05,1.117182,40.75344,hard,danger
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,30.00111,6.347227,4.922799,normal,warning
+1,yes,yes,straight,straight,from_left,yes,yes,yes,no,no,yes,yes,24.21458,0.06929207,11.82139,normal,danger
+1,yes,no,turn_right,stop,same_direction,no,no,no,no,no,yes,yes,8.268311e-06,4.893475,32.35268,normal,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,3.96021,6.82937,23.25742,normal,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,45.00032,6.173141,54.37999,normal,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00018,6.656246,21.84681,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,21.00016,4.421187,8.724782,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,37.00011,5.763008,20.90037,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00659,2.035289,34.9438,hard,warning
+2,no,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,20.00443,1.48217,3.773043,normal,danger
+2,yes,yes,turn left,stop,opposite_direction,no,no,no,no,no,yes,yes,0.001876477,3.445573,30.19596,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,30.0012,3.252301,24.02298,hard,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,20.00029,5.794162,13.26856,normal,warning
+1,no,yes,turn left,turn left,same_direction,no,no,yes,no,no,no,yes,8.061296,3.359203,12.86706,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,22.56649,2.70399,12.81273,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,40.04435,6.023549,17.76734,hard,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,26.01525,3.328331,30.80666,hard,warning
+1,yes,yes,turn_right,stop,from_right,no,no,no,no,no,yes,yes,6.908269,5.008267,15.22229,hard,warning
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00072,4.33682,23.49421,hard,warning
+1,no,yes,straight,turn_right,opposite_direction,no,no,no,no,no,no,no,38.7401,5.810437,4.105961,normal,warning
+1,no,yes,turn_right,straight,same_direction,no,no,no,no,no,no,no,50.00005,0.4198314,11.91965,normal,danger
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00166,1.027787,25.34796,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00116,5.161544,18.06175,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,11.83574,2.419437,19.2063,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,41.003,0.9230707,9.561455,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,47.14418,1.065704,8.440557,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00006,1.58445,26.48645,easy,danger
+1,no,yes,turn_right,straight,opposite_direction,yes,no,yes,no,no,no,yes,36.00858,5.5613,10.43208,normal,warning
+1,yes,yes,straight,stop,same_direction,no,yes,no,no,no,no,yes,0.000166821,4.895071,10.14799,normal,warning
+2,no,yes,reverse,straight,opposite_direction,no,no,no,no,no,no,no,23.00465,2.962166,15.49754,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,60.0,4.634226,20.64237,hard,warning
+1,yes,yes,straight,straight,from_left,no,yes,no,no,yes,yes,yes,47.00098,2.388205,43.10247,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00135,1.147215,13.51479,easy,danger
+1,yes,yes,turn_right,stop,from_right,yes,yes,no,no,no,no,yes,4.680157,8.218134,20.28152,normal,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,19.72059,3.144079,15.15576,hard,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.01273,1.022332,19.36358,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00006,1.589051,25.34249,easy,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,0.0001068596,1.056135,16.99798,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,27.0,7.617012,25.89683,normal,warning
+1,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,9.276816,2.307261,13.53114,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,11.52313,1.977816,17.19493,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,50.00003,5.246406,25.7754,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.0001,1.484659,26.28213,easy,danger
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,80.00092,5.325233,8.355965,normal,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,50.00053,5.709517,5.395592,easy,warning
+1,no,no,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001328786,3.65633,29.61799,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00036,5.102083,7.971022,hard,warning
+4,yes,no,straight,turn left,opposite_direction,no,no,yes,yes,no,no,yes,21.44025,3.867507,20.99626,hard,warning
+1,no,yes,turn_right,stop,same_direction,no,no,no,no,no,no,no,10.08017,6.652207,10.3671,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,29.31156,5.380357,34.20393,hard,warning
+2,yes,no,turn_right,turn_right,opposite_direction,no,no,yes,no,no,no,yes,12.53042,1.58475,17.70441,easy,danger
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,32.00013,5.855024,25.94128,normal,warning
+1,yes,yes,straight,straight,from_right,no,no,no,no,no,no,no,16.77106,6.611456,20.00132,easy,warning
+1,yes,yes,reverse,straight,from_left,no,no,no,no,yes,no,yes,20.0,5.058702,6.468579,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00008,2.273559,48.58228,easy,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00343,1.660992,41.70543,hard,danger
+2,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,50.00659,6.127333,6.349381,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,49.99999,6.169934,18.72864,normal,warning
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,21.54603,0.0,7.72769,hard,collision
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00001,4.622608,46.83457,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,16.14942,1.324632,40.08063,hard,danger
+1,no,yes,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,6.04008,5.224854,24.654,hard,warning
+1,yes,yes,turn left,stop,opposite_direction,no,no,yes,no,no,yes,yes,7.055489,3.489885,26.1531,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00339,1.798661,13.24659,normal,danger
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,no,no,15.86213,3.098654,13.99598,hard,warning
+4,yes,no,stop,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00278,3.116474,1.177319,hard,warning
+2,yes,yes,turn_right,straight,same_direction,no,no,no,no,no,yes,yes,50.00005,5.504447,34.2966,hard,warning
+2,no,yes,turn left,straight,from_right,no,no,yes,no,yes,yes,yes,64.97174,6.059033,8.94277,hard,warning
+1,no,yes,stop,stop,same_direction,no,no,no,no,no,no,no,8.535818,6.616894,4.498529,normal,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,8.255389e-05,2.283478,20.66453,hard,warning
+1,yes,yes,turn_right,turn left,from_right,no,yes,no,no,yes,yes,yes,30.02522,5.754463,33.37745,easy,warning
+1,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,no,yes,10.03494,7.39143,2.585865,hard,warning
+1,yes,yes,turn left,straight,same_direction,no,no,no,no,no,no,no,21.99532,4.654845,15.18385,hard,warning
+3,yes,yes,straight,straight,from_left,no,no,no,no,no,yes,yes,52.00001,6.595986,51.04808,normal,warning
+2,yes,no,turn left,turn left,from_right,yes,no,no,no,no,no,yes,30.00004,2.485322,3.469627,hard,warning
+1,yes,yes,straight,stop,from_left,no,yes,yes,no,no,yes,yes,4.387527,8.648103,15.27914,normal,warning
+2,yes,no,turn left,straight,opposite_direction,no,no,yes,no,no,no,yes,30.00012,7.297285,7.662831,easy,warning
+2,no,yes,reverse,straight,same_direction,no,no,no,no,no,no,no,23.58257,3.829991,16.73246,normal,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,43.00074,6.089548,10.55465,hard,warning
+1,no,yes,reverse,straight,same_direction,no,no,yes,no,yes,no,yes,50.00001,2.25008,4.527751,easy,warning
+2,yes,yes,turn left,straight,from_right,no,no,no,yes,yes,yes,yes,26.00001,2.143483,13.81155,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00018,4.43945,7.836843,easy,warning
+1,yes,yes,turn left,stop,same_direction,no,no,no,no,no,no,no,28.58629,5.247894,18.53159,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,32.00028,3.315598,12.72788,hard,warning
+1,no,yes,straight,turn_right,opposite_direction,no,no,no,no,no,no,no,31.43965,3.684553,42.29956,easy,warning
+2,yes,yes,straight,straight,from_left,no,no,no,no,yes,yes,yes,50.00006,3.576204,4.998262,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,25.086,5.837704,16.41406,easy,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,15.0287,1.188308,40.39049,normal,danger
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,17.99731,2.952489,18.98993,hard,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,20.00016,4.094557,12.76986,normal,warning
+2,no,yes,straight,turn_right,opposite_direction,no,no,yes,no,no,no,yes,0.005490043,0.8531411,14.66171,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00054,5.071441,19.11736,hard,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001636623,1.1325,9.177342,normal,danger
+1,yes,yes,straight,stop,from_left,no,yes,yes,no,no,yes,yes,5.440031,8.679137,26.4893,normal,warning
+2,no,yes,reverse,straight,same_direction,no,no,yes,no,no,no,yes,19.98877,9.387931,6.86841,easy,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,43.72075,5.604045,27.18764,hard,warning
+1,yes,yes,straight,straight,from_right,yes,no,yes,no,no,yes,yes,25.11576,5.419499,13.13597,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00153,1.846704,43.16768,normal,danger
+3,yes,yes,turn_right,straight,from_left,no,no,no,no,no,no,no,17.533,2.381389,10.7003,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,6.199296,2.410267,17.19493,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.00193,6.420431,28.82589,hard,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,26.69703,6.43369,18.14286,hard,warning
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,no,no,no,49.29766,5.73489,22.12357,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,19.99952,7.664891,43.81392,easy,warning
+3,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,80.00009,3.217553,25.36825,hard,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.01272,1.430227,4.026302,hard,danger
+1,no,yes,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,0.0001635017,4.663327,14.18562,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,56.88663,2.853956,17.86082,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,19.22557,0.9376166,40.01241,hard,danger
+1,no,yes,turn_right,turn_right,opposite_direction,yes,no,yes,no,no,no,yes,32.23856,4.832933,11.24213,normal,warning
+1,no,yes,turn left,stop,opposite_direction,no,no,yes,no,yes,yes,yes,9.18693e-05,0.6245625,42.01643,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,30.3201,1.195866,45.70755,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00152,1.32588,6.722228,easy,danger
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,22.37165,2.960239,10.92247,hard,warning
+1,yes,yes,straight,stop,from_right,yes,no,yes,no,no,yes,yes,0.0001678917,5.638628,11.77233,hard,warning
+1,yes,yes,turn left,stop,from_left,no,no,no,no,yes,yes,yes,20.0003,2.907564,7.718075,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,40.33885,4.424055,34.24953,hard,warning
+1,yes,yes,turn_right,stop,from_right,yes,yes,no,no,no,no,yes,7.521043,4.443675,20.71389,normal,warning
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.01249,2.029889,15.64744,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,3.024834e-05,1.236547,37.63427,normal,danger
+4,yes,no,turn left,turn left,from_left,no,no,yes,yes,yes,no,yes,30.00001,0.0,11.08357,hard,collision
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00003,5.375596,23.29655,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,yes,no,yes,20.21698,6.911664,16.3723,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,25.00008,4.402184,11.70446,hard,warning
+2,yes,yes,turn_right,turn left,opposite_direction,no,no,no,no,yes,yes,yes,50.01443,0.0,16.57654,normal,collision
+1,yes,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,0.0001061101,2.45212,25.81184,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,58.34414,5.891562,10.9536,hard,warning
+2,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,50.00156,2.794721,26.35554,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00636,2.016258,19.85163,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,10.8922,6.817228,9.16963,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00171,5.29254,17.76323,hard,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,22.65545,6.797069,15.34526,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00036,0.0,12.24833,hard,collision
+2,yes,no,reverse,stop,same_direction,no,no,no,no,no,no,no,0.0001433183,5.904174,5.481663,hard,warning
+3,yes,yes,turn left,straight,opposite_direction,no,no,no,no,yes,no,yes,36.14814,5.922415,8.940008,hard,warning
+2,no,yes,reverse,straight,opposite_direction,no,no,yes,no,no,no,no,30.99954,5.960251,15.18185,normal,warning
+1,no,yes,straight,stop,same_direction,yes,no,no,no,no,no,yes,5.880154,1.911134,18.01933,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00038,5.247084,33.58528,normal,warning
+1,yes,yes,reverse,stop,from_left,no,yes,yes,no,no,yes,yes,4.080146,3.965227,6.815312,normal,warning
+4,yes,no,turn left,turn left,opposite_direction,no,no,yes,yes,yes,no,yes,20.00035,4.282806,13.75044,hard,warning
+2,no,yes,straight,turn_right,opposite_direction,yes,no,no,no,no,no,yes,19.74168,1.136687,32.52808,easy,danger
+1,yes,yes,straight,straight,from_right,no,yes,yes,no,no,yes,yes,20.7337,4.806031,39.66014,normal,warning
+1,no,yes,turn left,turn left,same_direction,no,no,yes,no,no,no,yes,5.60972,5.262353,15.77181,normal,warning
+1,yes,yes,turn_right,turn_right,same_direction,yes,no,no,no,no,no,yes,25.03893,6.350803,8.138913,normal,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,42.10151,2.92362,15.37239,hard,warning
+3,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,20.0,5.447307,5.197505,easy,danger
+1,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,23.51653,1.446141,7.614096,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,6.14659,1.851071,33.76166,hard,danger
+4,yes,no,turn left,turn left,from_left,no,no,no,yes,yes,yes,yes,30.00616,1.638041,7.361417,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.93379,5.970514,19.83695,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,2.520001,3.465701,17.39976,normal,warning
+2,yes,no,turn left,straight,same_direction,no,no,yes,yes,yes,yes,yes,16.56188,8.111925,12.3027,hard,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,29.29978,5.439236,22.77331,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,32.00027,0.8173258,10.84314,hard,danger
+2,yes,yes,turn left,straight,from_left,no,no,yes,no,yes,yes,yes,42.00002,6.175212,10.86563,hard,warning
+2,yes,yes,turn left,straight,same_direction,no,no,yes,no,yes,yes,yes,7.203745,5.211255,9.746005,hard,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,17.67869,3.276776,4.088377,hard,warning
+1,no,yes,turn left,stop,from_right,no,no,no,no,yes,no,yes,0.2881851,0.0,8.014909,hard,collision
+4,yes,no,straight,turn left,from_right,yes,no,no,no,yes,no,yes,30.00046,6.317515,7.2893,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0,5.23038,26.11239,normal,warning
+1,no,yes,turn left,stop,same_direction,no,no,no,no,yes,yes,yes,50.00013,6.213525,3.722767,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.01443,5.642326,12.92549,normal,warning
+2,yes,yes,turn_right,straight,from_left,no,no,no,no,no,no,no,49.00356,2.118313,17.45985,easy,warning
+2,yes,yes,straight,straight,opposite_direction,no,no,no,no,yes,yes,no,46.61108,1.47159,17.19033,normal,danger
+2,yes,yes,turn_right,stop,same_direction,no,no,no,no,no,no,no,9.192284e-05,2.600945,20.01582,normal,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,7.535515,0.0,26.4893,normal,collision
+1,yes,yes,straight,stop,same_direction,no,no,no,no,no,no,no,20.08299,0.0,4.800068,hard,collision
+1,yes,yes,turn left,stop,opposite_direction,no,no,yes,no,no,no,yes,16.18318,2.218099,16.1325,easy,warning
+1,no,no,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,34.00024,2.313818,8.16641,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00071,5.197803,17.14971,normal,warning
+1,yes,yes,turn left,straight,from_left,no,no,no,no,yes,no,yes,49.00002,5.013836,2.188643,hard,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,yes,yes,20.0,2.17502,37.5126,easy,warning
+2,no,yes,turn left,turn left,same_direction,no,no,no,no,no,no,no,50.0,1.576422,22.79053,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,70.00031,1.760141,19.72124,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00017,1.760576,43.38313,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0005,4.047533,5.44036,easy,warning
+1,yes,yes,reverse,stop,from_left,no,yes,yes,no,no,yes,yes,6.000016,8.252826,5.842804,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,no,20.00036,2.698078,24.18385,easy,warning
+2,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,27.31764,3.765344,7.237628,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,47.00018,3.126933,25.73722,hard,warning
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,13.89859,5.630578,21.92759,normal,warning
+1,no,yes,straight,stop,from_right,yes,no,no,no,yes,no,yes,0.1510404,0.0,9.826713,hard,collision
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,14.0036,5.543901,10.51964,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00019,3.428098,23.4835,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.99701,5.028904,8.132678,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,24.00001,1.374359,22.61265,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00001,1.026274,21.02908,hard,danger
+2,yes,no,turn left,turn_right,opposite_direction,no,no,yes,yes,no,yes,yes,31.91709,5.943429,11.89012,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00001,5.218278,22.26666,hard,warning
+2,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,49.95535,8.577327,5.926036,normal,warning
+4,yes,no,turn left,turn left,from_right,no,no,no,no,yes,no,yes,15.51913,5.818787,7.597922,hard,warning
+1,yes,yes,straight,turn left,opposite_direction,no,no,yes,no,yes,yes,yes,25.57899,2.578219,19.59578,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00174,1.914549,6.722228,easy,danger
+1,yes,yes,straight,stop,from_right,yes,yes,no,no,no,yes,yes,20.0046,5.668261,15.30647,easy,warning
+1,no,no,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00003,2.503832,34.95435,hard,warning
+1,yes,yes,turn left,turn left,from_left,no,no,yes,no,yes,yes,yes,30.01482,5.322275,23.62498,normal,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,17.67869,3.525687,4.088377,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,8.689601,4.073527,22.71087,hard,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,0.0001655896,4.430867,22.73242,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,39.02935,0.0,14.00381,hard,collision
+1,yes,yes,stop,stop,from_left,no,yes,yes,no,no,yes,yes,15.9376,7.872167,1.893877,normal,warning
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,26.70435,2.596676,8.683912,hard,warning
+2,yes,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,18.19962,6.351247,12.6945,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00006,1.524521,27.51552,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00039,2.020915,13.78203,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,0.0001717999,2.300673,14.18562,normal,warning
+1,no,yes,straight,straight,from_right,no,no,no,no,no,no,no,37.83972,6.530249,26.60029,normal,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,13.37713,6.255728,11.69899,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,60.00017,6.06484,26.60251,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,21.42017,1.377091,8.086268,hard,danger
+1,no,yes,turn_right,straight,same_direction,no,no,yes,no,no,no,yes,50.00026,5.220642,10.1753,easy,warning
+1,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,17.83946,1.780227,27.84559,hard,danger
+3,yes,yes,turn_right,straight,same_direction,no,no,no,no,yes,yes,yes,75.47911,6.770354,17.47868,hard,warning
+3,yes,yes,turn left,straight,same_direction,no,no,no,no,yes,no,yes,34.34805,4.735837,8.8163,hard,warning
+2,no,yes,turn left,straight,opposite_direction,no,no,yes,no,no,no,yes,50.0,1.236819,32.67832,easy,danger
+1,yes,yes,stop,turn_right,from_left,no,no,no,no,no,no,no,23.54534,2.336099,0.01094427,hard,warning
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0036,5.861393,17.91615,easy,warning
+2,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,23.00484,4.304202,11.32118,easy,warning
+1,no,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,60.00029,7.628636,8.925144,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00089,5.198996,32.27844,normal,warning
+1,yes,yes,straight,turn_right,same_direction,no,no,no,no,yes,yes,yes,25.32622,5.551945,35.77158,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00023,3.121064,22.56246,easy,danger
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,51.99136,4.203462,7.672626,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0,6.214901,23.83552,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,27.00087,1.363905,64.2208,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,32.35893,4.873494,8.609817,hard,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,35.01369,0.0,14.87224,hard,collision
+1,no,yes,stop,stop,from_right,no,no,no,no,yes,no,yes,0.000182186,4.081112,5.233219,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,5.776631e-05,1.855568,32.68005,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00009,5.40408,20.93395,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00009,4.433927,8.30324,easy,warning
+1,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,12.80083,0.9127784,14.758,hard,danger
+1,yes,yes,turn left,straight,same_direction,no,no,no,no,no,no,no,10.72009,1.404196,13.26414,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,3.174738e-05,1.620348,26.0085,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,26.0002,1.745104,4.749548,normal,danger
+2,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,yes,no,yes,50.0,0.0,16.23191,normal,collision
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,29.40559,2.685913,0.0001855098,hard,warning
+4,yes,no,straight,turn left,same_direction,no,no,no,no,no,no,no,20.0046,1.927283,13.46818,hard,danger
+1,yes,yes,straight,straight,opposite_direction,no,yes,yes,no,no,yes,yes,20.0,2.119049,16.62675,normal,warning
+3,yes,yes,turn_right,straight,same_direction,no,no,no,no,yes,yes,yes,16.26408,7.037149,10.89404,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,31.14573,4.448368,34.06143,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,yes,no,no,no,yes,0.0001358231,5.119766,10.71532,hard,warning
+1,no,yes,turn_right,turn_right,opposite_direction,yes,no,yes,no,no,no,yes,26.02354,5.422633,11.09017,normal,warning
+2,yes,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,50.00005,5.980292,19.85044,normal,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,14.56513,2.080823,12.92578,hard,warning
+1,no,yes,straight,straight,from_left,no,no,no,no,no,no,no,80.00001,2.160328,17.35402,hard,warning
+4,yes,no,stop,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00773,3.360855,4.991282,hard,warning
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,no,no,no,50.00004,2.020621,23.69288,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,yes,yes,no,no,yes,yes,15.80775,1.810894,19.12779,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00022,1.830197,26.80618,easy,danger
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,50.00129,5.614929,12.85677,easy,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,yes,yes,yes,50.00192,3.343638,40.45595,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,0.0001349665,5.120282,23.0201,hard,warning
+2,yes,yes,turn left,straight,from_right,no,no,no,yes,yes,yes,yes,26.00004,4.016253,14.69761,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,40.00028,5.166955,19.36704,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.50483,2.087525,22.79765,hard,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,24.8516,6.124585,14.50373,normal,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,29.121,4.738309,8.259327,hard,warning
+1,yes,yes,turn left,turn left,same_direction,no,no,yes,no,no,yes,yes,20.00001,0.6375132,11.62241,hard,danger
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,no,no,20.00156,2.896715,22.23337,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00002,1.517011,29.58844,hard,danger
+1,no,yes,reverse,straight,same_direction,no,no,no,no,yes,no,yes,23.756,1.981104,5.603111,normal,danger
+2,yes,yes,straight,straight,opposite_direction,no,no,yes,no,no,yes,yes,50.00104,2.274133,16.49491,normal,warning
+1,yes,yes,stop,turn_right,from_left,no,no,no,no,no,no,no,20.83022,1.300138,5.399103,hard,danger
+1,yes,yes,straight,straight,from_left,no,no,no,no,no,yes,yes,19.09694,7.69084,5.123091,hard,warning
+1,no,yes,reverse,straight,same_direction,no,no,no,no,yes,no,yes,50.00009,1.328243,6.817295,normal,danger
+2,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,50.00108,3.752101,12.56843,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00191,1.011421,10.8843,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00138,5.381997,5.342178,easy,warning
+1,yes,yes,turn left,stop,from_right,yes,no,no,no,yes,yes,yes,0.0001147831,6.896811,9.212127,hard,warning
+2,no,yes,reverse,straight,same_direction,no,no,yes,no,no,no,yes,20.00854,0.5551708,7.245728,easy,danger
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,11.90404,8.432524,23.83552,normal,warning
+1,yes,yes,straight,straight,from_left,no,no,no,no,no,no,no,50.00001,6.780416,0.03323637,normal,warning
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,21.78008,2.592984,0.0003773956,hard,warning
+1,yes,yes,straight,stop,opposite_direction,no,yes,no,no,no,yes,yes,0.0001129093,4.21433,21.66208,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,31.00023,1.629869,28.44693,easy,danger
+1,yes,yes,straight,straight,from_left,yes,no,yes,no,no,no,yes,39.09199,4.680725,8.623292,hard,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,7.318493e-05,2.02803,29.84399,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,8.860356e-05,1.490717,26.0086,hard,danger
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,42.99878,6.952616,10.59129,hard,warning
+1,yes,yes,stop,turn_right,from_left,no,no,no,no,no,no,no,37.9031,2.351684,0.0008887351,hard,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,4.636174,5.71069,12.94778,normal,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00819,2.934894,11.62121,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,23.00015,1.727848,11.74222,hard,danger
+1,yes,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,30.07314,5.057325,12.98494,normal,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,36.00672,5.299904,9.246505,normal,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,17.06204,6.808684,0.01002812,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,52.784,1.310361,13.1256,hard,danger
+2,yes,yes,turn_right,straight,from_left,no,no,no,no,no,yes,yes,50.00002,1.328283,10.82946,hard,danger
+1,no,yes,straight,stop,from_left,yes,no,yes,no,yes,no,yes,9.359879,1.793669,12.15083,hard,danger
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,12.96006,2.610451,33.96843,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,yes,yes,yes,50.0,0.0,8.717825,normal,collision
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,23.18205,5.656784,15.00462,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00001,1.806407,25.04159,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00031,0.2887599,56.37925,easy,danger
+1,no,yes,reverse,straight,opposite_direction,yes,no,yes,no,no,no,yes,42.82774,6.043036,3.256946,normal,warning
+1,no,yes,stop,turn_right,same_direction,yes,no,no,no,no,no,yes,30.54274,5.515312,3.109121,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,18.84554,3.124404,26.3329,easy,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.01272,3.841183,14.95477,hard,warning
+2,yes,no,turn left,stop,opposite_direction,no,no,yes,yes,no,no,yes,0.004899537,4.653866,24.65013,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,yes,45.37027,1.712923,17.96035,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00119,1.560313,6.822862,easy,danger
+1,yes,yes,straight,stop,opposite_direction,no,yes,no,no,no,yes,yes,5.059236e-05,5.713307,44.69781,hard,warning
+3,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,25.46,5.27185,5.197505,easy,danger
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,26.47927,6.255736,18.3602,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,54.80156,2.927513,13.49894,hard,warning
+2,yes,yes,turn left,turn_right,same_direction,no,no,yes,no,yes,yes,yes,30.00001,7.83446,21.37301,hard,warning
+3,yes,no,turn_right,turn_right,same_direction,yes,no,no,yes,yes,yes,yes,20.72569,2.253516,11.43713,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00192,2.110101,26.13785,hard,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,0.0001515094,3.19251,13.61779,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.0002,1.837322,15.98271,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,46.56695,6.190373,9.568223,hard,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,5.123481e-05,6.415564,7.187798,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,29.00047,1.197559,26.07469,normal,danger
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,50.00201,1.049979,16.00713,hard,danger
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,yes,yes,2.976651e-05,7.367907,14.18237,hard,warning
+3,yes,yes,turn_right,straight,from_left,no,no,no,no,yes,no,yes,20.01479,3.122106,10.77883,easy,warning
+1,yes,yes,stop,turn_right,from_left,no,no,yes,no,no,no,yes,12.71056,2.152339,1.910521,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00085,5.581521,36.807,hard,warning
+1,yes,yes,straight,straight,same_direction,yes,no,yes,no,no,no,yes,0.0001678917,5.19581,10.43822,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00842,1.710617,4.285669,easy,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00018,1.643236,13.23148,hard,danger
+2,yes,yes,turn left,straight,from_right,no,no,no,no,yes,yes,yes,3.541665,7.214973,10.32965,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,2.211074e-05,5.16848,23.60858,hard,warning
+2,yes,no,turn left,turn left,opposite_direction,yes,no,yes,yes,no,yes,yes,30.00001,6.468579,16.10828,hard,warning
+1,yes,yes,turn_right,stop,from_right,no,yes,yes,no,yes,yes,yes,0.000156649,5.533176,15.39602,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,yes,10.03665,4.380845,16.58311,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.39241,5.444965,18.85498,hard,warning
+1,yes,yes,straight,stop,from_left,yes,no,yes,no,no,yes,yes,49.9995,6.830923,3.642486,hard,warning
+1,yes,yes,reverse,stop,from_right,no,yes,yes,no,no,yes,yes,6.69303,3.753636,7.12232,normal,warning
+1,yes,no,turn_right,straight,same_direction,no,no,no,no,no,yes,yes,12.13292,0.0,41.05727,hard,collision
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00023,0.5991352,52.15627,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,46.12801,2.64922,18.50788,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00208,4.884309,7.635739,hard,warning
+4,yes,no,reverse,turn left,same_direction,no,no,no,no,yes,no,yes,30.00001,5.686287,5.252449,hard,warning
+1,yes,yes,turn_right,turn_right,same_direction,yes,no,no,no,no,no,yes,50.00001,6.313812,6.597425,normal,warning
+1,no,no,turn left,straight,opposite_direction,yes,no,yes,no,yes,yes,yes,50.00931,4.753128,18.07402,hard,warning
+2,yes,yes,stop,straight,from_left,no,no,no,no,no,no,no,18.23151,6.849799,0.006765178,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,9.245821e-05,7.187173,11.43015,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,19.99978,5.355063,21.78961,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00125,1.791041,38.59484,hard,danger
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00175,0.8628371,10.00609,easy,danger
+1,no,yes,turn left,stop,same_direction,no,no,no,no,yes,yes,yes,6.41372e-05,6.97155,6.191349,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,40.9516,0.0,18.93035,normal,collision
+1,yes,yes,turn left,stop,from_left,yes,no,yes,no,no,no,yes,8.424782,4.9775,17.90913,normal,warning
+1,yes,yes,turn_right,straight,from_right,no,yes,no,no,no,yes,yes,24.19316,3.496152,38.89234,normal,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,78.28392,5.207708,16.56352,easy,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,37.00026,5.670095,24.65099,hard,warning
+1,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,39.76426,4.680504,5.763342,hard,warning
+1,no,no,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001649472,4.118973,29.78021,normal,warning
+4,yes,no,turn left,turn left,from_right,no,no,no,no,yes,no,yes,25.00016,3.817748,6.022299,hard,warning
+1,yes,yes,stop,turn left,from_left,no,no,yes,no,yes,no,yes,10.42232,4.369347,8.534324,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00749,5.328807,20.13839,hard,warning
+1,yes,yes,turn_right,straight,same_direction,no,no,no,no,no,no,no,29.01331,8.812352,24.35876,normal,warning
+2,yes,yes,straight,turn_right,from_right,no,no,no,no,no,no,no,12.49118,4.503767,12.07869,normal,warning
+4,yes,no,stop,turn left,from_right,yes,no,no,no,yes,no,yes,30.0004,0.0,6.591522,hard,collision
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,45.00856,1.536109,9.957873,hard,danger
+1,no,yes,straight,turn_right,same_direction,no,no,no,no,no,yes,yes,12.64998,0.0,12.40894,normal,collision
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,32.00005,6.678026,26.2813,hard,warning
+1,yes,yes,turn left,turn_right,from_left,yes,yes,yes,no,yes,yes,yes,60.0,3.549091,1.761635,normal,warning
+3,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,15.42018,0.5197635,64.33054,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0,1.35305,14.71268,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00015,2.522744,7.326094,hard,warning
+1,yes,yes,straight,stop,same_direction,no,no,no,no,no,no,no,8.976063,5.390983,3.176089,hard,warning
+1,no,yes,straight,turn left,opposite_direction,no,no,yes,yes,no,yes,yes,30.01368,2.193968,16.38362,normal,warning
+1,yes,yes,reverse,turn_right,from_right,no,yes,yes,no,no,yes,yes,7.97045,0.0,6.815312,normal,collision
+1,yes,yes,straight,stop,from_right,yes,no,no,no,no,no,yes,25.00101,5.624363,18.50254,easy,warning
+2,yes,yes,turn_right,straight,from_left,no,no,no,no,no,no,no,15.48603,8.574341,81.84673,easy,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,0.002712768,3.422203,16.13215,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.0,1.455985,21.54522,easy,danger
+2,yes,yes,straight,turn_right,from_left,no,no,no,no,no,yes,yes,14.31591,6.106577,18.03533,normal,warning
+1,yes,yes,turn left,straight,from_left,no,yes,yes,no,no,yes,yes,6.44802,6.834955,8.524698,hard,warning
+2,yes,no,turn left,stop,opposite_direction,no,yes,yes,no,yes,yes,yes,0.003071395,4.96958,28.32052,normal,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,67.55263,3.42697,10.23844,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,4.108164,2.587757,16.13215,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00043,5.265919,28.73266,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,34.01216,5.155729,8.604734,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00105,4.630205,18.90675,easy,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00008,6.399239,16.15784,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,0.0001783314,2.057269,33.1998,hard,warning
+4,yes,no,turn left,turn left,from_left,no,no,yes,yes,yes,yes,yes,22.52984,6.635488,9.768158,hard,warning
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00034,2.208383,14.94016,normal,warning
+2,yes,yes,stop,turn_right,same_direction,no,no,no,no,yes,yes,yes,2.97905,0.0,7.823426,normal,collision
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0011,1.614571,22.54265,normal,danger
+1,yes,yes,reverse,stop,from_right,no,yes,yes,no,no,yes,yes,7.560114,1.59996,7.12232,normal,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,16.37862,5.644994,15.49128,hard,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,43.68519,7.204242,10.01568,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00033,1.661471,34.61426,hard,danger
+2,yes,no,turn left,stop,opposite_direction,no,no,yes,yes,no,yes,yes,0.0006657312,0.6290827,16.31321,easy,danger
+1,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,30.01077,5.61196,7.088394,hard,warning
+3,yes,yes,turn_right,straight,same_direction,no,no,no,no,yes,yes,yes,80.00076,4.812217,15.93637,hard,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,28.44526,6.171619,27.81021,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,6.734153,1.308438,14.15683,normal,danger
+2,yes,yes,turn left,turn left,same_direction,no,no,yes,no,yes,yes,yes,0.003541037,1.340578,21.78224,hard,danger
+2,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,50.0,1.603046,24.76672,hard,danger
+4,yes,no,stop,turn left,from_right,yes,no,no,no,yes,no,yes,30.00023,0.933466,6.852471,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00064,3.196806,44.40586,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,39.90752,0.9737997,13.42967,hard,danger
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00001,6.211728,29.2971,normal,warning
+2,yes,no,turn left,stop,same_direction,no,no,no,yes,no,yes,yes,2.390251e-05,5.707759,14.85531,easy,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,80.01029,1.203345,24.26396,hard,danger
+2,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,yes,no,yes,50.00002,0.0,6.234187,normal,collision
+2,no,yes,turn_right,turn left,opposite_direction,no,no,no,no,no,no,no,29.0,6.612085,23.01607,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,27.12589,4.62812,9.834285,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,20.00062,6.01318,21.67414,easy,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,yes,50.00421,3.642328,43.35343,normal,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,14.48742,3.625418,12.36249,hard,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00008,5.409708,12.43928,hard,warning
+2,yes,yes,stop,straight,same_direction,no,no,no,no,no,no,no,17.84678,5.650784,11.45181,normal,warning
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,1.729242e-05,5.574161,0.02349037,hard,warning
+1,yes,yes,turn left,straight,same_direction,no,no,no,no,no,no,no,60.00011,6.726676,9.830256,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,20.00002,5.69086,13.42517,normal,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.2001176,1.340579,24.85993,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,37.05067,4.362422,15.32447,hard,warning
+1,no,yes,turn_right,straight,from_right,no,no,no,no,yes,yes,yes,11.99933,5.848612,16.57654,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,47.00106,1.341177,37.40944,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.99993,0.7802846,8.132678,hard,danger
+2,yes,yes,turn left,stop,same_direction,no,no,no,no,yes,yes,yes,16.84956,3.047668,10.90471,normal,warning
+1,yes,yes,turn_right,stop,opposite_direction,no,no,no,no,no,no,no,12.06016,2.333802,23.55232,hard,warning
+1,yes,yes,turn left,turn left,opposite_direction,no,no,no,no,no,no,no,26.0,7.016303,12.4038,hard,warning
+1,yes,yes,straight,turn left,from_right,no,yes,no,no,no,yes,yes,9.850788e-06,5.515821,44.13545,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,22.14096,5.789398,19.43959,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,80.00053,4.536828,24.47388,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,yes,no,no,no,yes,5.744508e-05,5.466767,11.51777,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00471,3.742417,11.53746,hard,warning
+1,yes,yes,stop,turn_right,from_left,no,no,yes,no,yes,no,yes,32.73492,0.5689363,2.858733,hard,danger
+1,yes,yes,straight,stop,same_direction,no,yes,yes,no,no,yes,yes,0.0001343776,1.351094,34.47849,easy,danger
+1,no,yes,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00023,7.87953,34.70918,normal,warning
+1,no,yes,straight,stop,from_left,yes,no,yes,no,no,no,yes,6.551659,0.0,11.99656,hard,collision
+1,yes,yes,straight,straight,opposite_direction,no,yes,no,no,no,no,yes,20.00018,5.48171,14.04345,easy,warning
+2,yes,no,turn left,straight,opposite_direction,no,no,yes,no,no,no,yes,30.00002,8.469843,24.8013,easy,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,20.57961,3.493967,21.14693,hard,warning
+2,yes,no,turn left,turn_right,same_direction,no,no,yes,yes,no,yes,yes,0.0003460625,3.534414,23.03454,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,yes,no,no,no,yes,yes,9.138748e-05,0.6047375,15.7962,easy,danger
+2,yes,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,35.47182,1.584591,11.887,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,43.15286,0.008258224,16.92282,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00021,1.587782,7.776843,hard,danger
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,1.073309e-06,1.578433,11.33531,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00023,3.093864,23.34157,easy,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.0,5.421266,29.03815,hard,warning
+2,no,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,20.00436,1.763567,5.068513,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.87421,6.343394,21.94238,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00079,4.755923,8.913473,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,17.51915,5.096614,15.57647,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,3.292519e-05,2.470932,14.64967,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00025,2.963783,24.77416,easy,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,19.9668,6.280953,11.2023,easy,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0,6.731462,14.52539,hard,warning
+1,no,yes,straight,stop,same_direction,yes,no,no,no,no,no,yes,1.402667e-05,7.131481,27.64297,easy,warning
+1,yes,yes,straight,turn_right,same_direction,no,no,no,no,no,yes,yes,6.81758,5.559673,12.54182,hard,warning
+2,yes,yes,turn left,straight,from_right,no,no,yes,no,yes,yes,yes,20.00031,0.0,12.28,hard,collision
+2,yes,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,22.0,5.072893,8.881489,normal,warning
+1,yes,yes,straight,stop,same_direction,no,yes,no,no,no,yes,yes,0.0001703009,3.121782,51.18437,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,49.99998,8.576061,37.77723,normal,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,27.00006,2.026998,16.84848,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,2.976651e-05,6.113981,14.70164,hard,warning
+1,yes,yes,straight,stop,from_left,no,no,yes,no,no,yes,yes,3.196152e-05,9.44697,28.37526,easy,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00014,4.809757,21.76555,hard,warning
+4,yes,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.03285,2.812221,22.55225,hard,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,3.918901e-05,5.40303,21.58191,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00017,6.128267,38.58723,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00046,2.885789,25.84413,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00019,2.033168,14.85891,hard,warning
+1,yes,yes,turn_right,stop,from_right,no,no,no,no,no,no,no,3.960143,4.300378,20.70237,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,18.43453,6.343279,0.004100181,hard,warning
+1,no,yes,stop,straight,same_direction,no,no,no,no,no,no,no,50.00004,1.468676,0.001503394,normal,danger
+2,yes,yes,stop,straight,from_left,no,no,no,no,no,no,no,25.09967,2.250866,5.657217,normal,warning
+1,no,no,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,4.679124e-05,1.817939,24.55734,hard,danger
+1,yes,yes,straight,turn_right,same_direction,no,yes,no,no,no,yes,yes,12.96223,1.825084,44.62574,easy,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00049,3.962916,6.224582,easy,warning
+4,yes,no,stop,turn left,from_left,yes,no,no,no,no,no,yes,14.55516,6.739284,3.246121,hard,warning
+2,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,14.16202,6.222325,17.74594,hard,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001502781,5.206514,8.638638,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00148,6.174323,30.6338,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00146,2.092142,5.474093,easy,warning
+2,yes,yes,turn_right,straight,opposite_direction,no,no,no,no,yes,no,yes,50.01273,4.009792,11.27868,normal,warning
+2,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,yes,yes,13.11953,1.844335,56.95863,normal,danger
+2,yes,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,22.35197,5.099034,11.54398,hard,warning
+1,no,yes,stop,turn_right,same_direction,yes,no,no,no,no,no,yes,25.91984,5.852975,4.157731,hard,warning
+2,yes,yes,turn left,turn left,same_direction,no,no,yes,no,yes,yes,yes,18.07687,5.153656,20.71945,hard,warning
+3,no,yes,turn_right,straight,same_direction,no,no,no,yes,yes,no,yes,80.00568,4.324267,49.14827,easy,danger
+2,yes,no,straight,straight,opposite_direction,yes,no,yes,yes,no,no,yes,30.00003,6.017946,23.75787,easy,warning
+1,no,yes,straight,straight,from_right,yes,no,yes,no,yes,no,yes,7.919252,6.740882,2.836377,hard,warning
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,yes,no,yes,2.634015e-05,4.66947,41.93904,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,27.09364,2.360938,20.26416,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00016,0.8633423,20.81854,hard,danger
+1,yes,yes,reverse,turn_right,from_right,no,yes,yes,no,no,yes,yes,12.5684,0.0,6.815312,normal,collision
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,20.00007,7.504098,20.07594,normal,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001693907,1.236731,24.85993,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00006,2.162666,17.05631,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00007,2.963273,21.69026,easy,danger
+1,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,3.4761,2.298731,24.55052,hard,warning
+2,no,yes,turn_right,straight,same_direction,no,no,no,no,yes,no,yes,48.18239,6.699774,10.00334,normal,warning
+2,yes,yes,stop,straight,from_left,no,no,no,no,no,no,no,28.4906,4.298597,0.01534373,normal,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,0.3463089,6.696582,12.94778,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,48.37311,6.167983,20.98188,hard,warning
+2,no,yes,turn left,straight,from_right,no,no,no,no,yes,no,yes,70.00278,0.848242,7.098478,normal,danger
+1,no,yes,straight,turn_right,same_direction,no,no,no,no,no,no,no,10.32396,4.54198,6.779294,normal,warning
+3,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,14.78832,2.86427,0.8376486,easy,warning
+1,yes,yes,straight,stop,same_direction,no,no,no,no,no,no,no,9.984846,5.029871,7.86696,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,24.00023,2.473222,23.4835,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,yes,yes,yes,12.01817,6.300478,10.90471,normal,warning
+1,yes,yes,straight,stop,from_right,no,no,no,no,no,no,no,9.593811e-05,9.445005,15.69373,hard,warning
+4,yes,no,turn left,turn left,from_left,no,no,no,yes,yes,yes,yes,30.00008,2.877769,11.49706,hard,warning
+2,no,yes,turn left,straight,same_direction,no,no,no,no,yes,no,yes,38.34265,6.733361,11.38604,hard,warning
+2,no,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,27.13388,1.365464,22.32441,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00151,4.453006,5.13952,easy,warning
+2,yes,no,straight,turn left,from_right,yes,no,no,no,no,no,yes,30.00001,1.564962,4.585427,hard,danger
+2,no,yes,reverse,straight,same_direction,no,no,no,no,no,no,no,37.00001,1.032668,16.73246,normal,danger
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,11.36808,7.895635,0.0002296242,hard,warning
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,49.99998,5.119421,0.002333051,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.0022,5.132099,22.34967,hard,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,52.4535,5.471432,19.623,hard,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,20.00001,0.2273132,28.04919,normal,danger
+1,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,45.00014,6.310286,54.58307,normal,warning
+2,yes,yes,turn left,straight,from_right,no,no,no,no,yes,yes,yes,33.10378,3.542941,7.823426,normal,warning
+3,yes,yes,straight,straight,from_left,no,no,no,no,no,yes,yes,78.12938,3.988323,52.68736,normal,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,5.530361e-05,5.122642,10.22266,normal,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,66.28924,4.641396,30.35806,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.0,5.685567,10.44162,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00158,2.179562,23.45181,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,13.69595,0.9205782,19.01652,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,yes,yes,30.58868,1.112473,2.510273,easy,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,44.35064,6.860246,9.849735,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,33.00264,5.644011,15.78269,easy,warning
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,50.00001,2.585699,4.416194,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,60.00002,5.429307,23.02029,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00391,1.04321,26.60948,normal,danger
+1,no,yes,turn left,straight,from_left,no,no,no,no,yes,no,yes,0.0001824537,3.956652,7.991207,hard,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,21.69217,2.841589,16.12596,hard,warning
+2,yes,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00401,1.499014,19.8121,hard,danger
+3,yes,yes,turn_right,straight,from_left,no,no,no,no,no,no,no,18.18009,2.646491,7.010489,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00012,5.203703,23.33776,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,24.84389,5.789413,19.96518,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,51.59226,6.472801,18.00557,normal,warning
+2,yes,yes,turn left,straight,opposite_direction,no,no,no,no,no,no,no,50.00058,4.848505,16.09226,hard,warning
+1,no,no,straight,straight,same_direction,yes,no,no,no,no,no,no,20.00004,7.324945,8.356902,normal,warning
+1,yes,yes,straight,straight,opposite_direction,no,yes,no,no,yes,yes,yes,36.4277,0.5201299,7.766437,hard,danger
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,26.62609,3.733652,0.5355647,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,yes,yes,yes,20.0,7.077203,7.823426,normal,warning
+2,yes,yes,turn left,turn_right,same_direction,no,no,yes,no,yes,yes,yes,15.36549,1.693532,23.67193,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00078,6.331783,20.22101,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.0,5.610398,25.69459,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,11.03993,2.75307,8.987764,hard,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.01383,6.57127,21.4208,hard,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,30.00001,5.027741,16.06529,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00332,0.8586202,8.132678,hard,danger
+1,yes,yes,stop,turn left,from_left,no,no,yes,no,yes,no,yes,25.16555,7.31915,0.001730785,hard,warning
+1,yes,yes,straight,stop,opposite_direction,no,yes,yes,no,no,yes,yes,5.439818,2.071798,17.23884,normal,warning
+2,yes,yes,stop,straight,from_left,no,no,no,no,yes,yes,yes,50.00014,2.783274,3.77187,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0,1.328541,25.40462,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00019,1.010088,38.08253,normal,danger
+3,yes,yes,straight,straight,from_right,no,no,no,no,no,yes,yes,24.33214,0.0,52.68736,normal,collision
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,41.90821,1.364226,22.3567,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,8.924599e-05,8.131056,26.0086,hard,warning
+4,yes,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.01323,4.73336,25.40786,hard,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,22.00007,0.7548306,60.82729,hard,danger
+3,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,57.00004,4.950911,25.53126,hard,warning
+1,no,yes,turn left,stop,from_left,yes,no,yes,no,yes,no,yes,10.03714,1.262708,7.927796,hard,danger
+2,no,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,20.00842,2.586144,0.1947135,normal,warning
+1,yes,yes,turn_right,stop,from_right,yes,yes,no,no,no,no,yes,9.239736,4.339451,20.15524,normal,warning
+1,no,yes,straight,straight,same_direction,no,yes,yes,no,no,yes,yes,0.0001406414,8.700678,4.898191,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,22.10683,5.121526,28.4061,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,37.00013,4.352545,11.19284,normal,warning
+2,yes,no,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,50.01295,5.664701,6.930586,normal,warning
+2,yes,yes,straight,straight,opposite_direction,no,no,yes,no,no,yes,yes,50.00001,5.081406,21.60084,hard,warning
+2,yes,no,turn left,turn_right,same_direction,no,no,yes,yes,no,yes,yes,0.0001597006,6.812651,21.50129,hard,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.01367,4.816228,22.58615,normal,warning
+3,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,22.19453,5.549765,13.04795,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00017,0.8672915,13.26472,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00001,2.005144,18.19811,normal,warning
+2,no,yes,stop,straight,opposite_direction,no,no,no,no,yes,no,yes,21.00304,2.328319,4.362517,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,49.99996,5.280025,44.64288,normal,warning
+2,yes,yes,turn_right,straight,same_direction,no,no,no,no,yes,yes,yes,20.00043,2.702066,55.06319,normal,warning
+1,yes,yes,straight,stop,from_left,no,yes,yes,no,no,yes,yes,4.914121,5.316889,26.4893,normal,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,77.70848,0.3929842,24.02033,normal,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00045,5.31487,2.54264,hard,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,50.00001,4.910024,10.09973,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,20.00005,5.186717,13.42517,normal,warning
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,24.84012,1.468115,0.5355647,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00003,0.6393344,32.7793,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,24.66758,1.965268,5.141959,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,19.99996,6.743541,17.10606,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,40.00097,5.240102,19.14548,hard,warning
+1,yes,yes,turn_right,stop,from_left,yes,no,yes,no,yes,yes,yes,10.12749,2.281053,17.41754,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,33.02097,1.152031,26.9678,hard,danger
+1,yes,yes,turn left,stop,opposite_direction,no,no,no,no,no,no,no,1.508164,2.686007,18.53159,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,60.00003,2.768995,34.91571,easy,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00001,2.143194,2.64127,easy,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00012,1.2572,19.08295,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00003,4.661379,47.14282,easy,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,50.00134,6.179405,5.527326,normal,warning
+1,yes,yes,straight,stop,from_right,yes,no,yes,no,no,yes,yes,6.990999,8.989299,12.25504,hard,warning
+1,no,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,50.00001,1.228366,0.01131635,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,40.06699,6.499044,24.77895,hard,warning
+2,yes,no,reverse,turn left,from_right,yes,no,no,no,no,no,yes,30.00004,0.0,4.093901,hard,collision
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.002872308,1.154487,25.29204,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,2.441282e-05,3.53288,11.83975,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001761364,1.490449,24.45555,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,33.00002,5.388656,21.55935,hard,warning
+2,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,yes,yes,14.09563,4.316388,11.94047,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00002,5.241606,54.63939,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,yes,yes,no,no,yes,yes,15.80775,1.443989,18.24317,normal,danger
+3,yes,yes,turn_right,turn left,same_direction,no,no,no,no,no,no,no,62.80233,1.485389,23.32979,hard,danger
+1,yes,yes,straight,straight,from_left,no,no,yes,no,no,yes,yes,31.0,2.564787,15.30709,hard,warning
+2,no,yes,turn left,straight,opposite_direction,no,no,yes,no,yes,no,yes,22.14768,3.976077,23.11285,hard,warning
+1,yes,yes,turn_right,turn left,opposite_direction,no,yes,no,no,yes,yes,yes,31.82522,5.89976,30.9355,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,16.73937,5.39147,20.57015,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0,1.377702,14.99962,hard,danger
+1,no,yes,stop,turn_right,same_direction,yes,no,no,no,no,no,yes,23.16395,3.077361,6.661804,hard,warning
+4,yes,no,reverse,turn left,from_left,no,no,yes,yes,yes,no,yes,20.00482,5.15369,7.211365,hard,warning
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,7.586178e-05,1.210051,36.12407,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,no,20.00055,2.455126,25.11437,easy,warning
+4,yes,no,straight,turn left,from_left,yes,no,no,no,no,no,yes,20.00001,1.094883,8.721933,hard,danger
+1,no,no,straight,straight,same_direction,no,no,no,no,no,no,no,20.06521,4.379354,14.47291,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,yes,no,yes,no,no,no,yes,19.88591,5.54297,8.003424,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00439,5.528063,35.37722,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,32.13182,4.686076,37.84123,hard,warning
+2,yes,yes,turn left,straight,from_left,yes,no,yes,no,no,yes,yes,53.01301,6.794184,3.180844,hard,warning
+2,yes,yes,turn_right,straight,same_direction,no,no,no,no,no,yes,yes,37.67661,6.740173,33.70699,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00009,5.52446,33.39957,easy,warning
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.0,6.632424,25.9337,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,28.25992,5.199317,19.36185,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00228,6.825769,20.3319,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,23.02278,1.813237,38.84129,hard,danger
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,17.39691,4.323522,3.969703,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,40.00018,1.435399,14.7432,hard,danger
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,25.34149,6.253853,10.13791,easy,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,9.609872e-05,4.987106,7.588492,normal,warning
+1,no,yes,straight,stop,same_direction,no,yes,no,no,no,yes,yes,8.967429e-05,2.943015,42.3405,easy,warning
+1,yes,yes,stop,straight,same_direction,no,no,yes,no,no,no,yes,33.99559,5.009002,0.02502445,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,25.0,6.365721,51.32012,hard,warning
+1,yes,yes,stop,turn_right,from_left,no,no,yes,no,no,no,yes,40.8326,1.110361,6.019264,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00025,1.09706,8.087599,hard,danger
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,0.0001451921,5.032824,20.77322,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,7.548135,4.850202,14.07374,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00007,0.8885217,16.71071,hard,danger
+2,yes,no,turn_right,turn left,opposite_direction,yes,no,yes,yes,no,no,yes,20.00002,1.89725,8.337458,hard,danger
+1,no,yes,turn left,stop,opposite_direction,no,no,yes,no,yes,yes,yes,8.212559e-05,5.671054,42.01643,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0,5.284987,23.1284,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,21.14867,2.344758,17.97902,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,43.87059,6.255889,9.873681,hard,warning
+1,no,yes,straight,turn_right,from_left,no,no,no,no,no,no,no,29.78249,5.001583,6.956987,hard,warning
+4,yes,no,stop,turn left,same_direction,no,no,no,no,yes,no,yes,47.45462,1.658666,4.083033,hard,danger
+3,no,yes,straight,straight,same_direction,no,no,no,no,yes,yes,yes,64.0,5.529459,16.24128,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,20.00003,4.989933,17.26947,hard,warning
+1,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,0.0001484043,4.939489,26.40713,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00009,4.471619,10.09137,easy,warning
+1,yes,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,40.5066,2.194807,13.5242,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00019,1.836527,12.85489,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00001,2.379239,9.552708,hard,warning
+4,yes,no,turn left,turn left,same_direction,no,no,no,no,no,no,no,26.04613,5.547958,21.49977,hard,warning
+1,yes,yes,straight,stop,opposite_direction,no,yes,no,no,no,yes,yes,0.0001128022,7.260553,21.692,normal,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,yes,no,yes,yes,18.35963,3.826036,10.13304,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00098,5.308049,55.89844,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,yes,yes,50.00002,1.076145,38.19247,easy,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,26.56143,0.8577747,52.46902,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00359,0.5668392,3.789374,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,45.01451,3.787818,11.10669,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00022,5.415092,38.58723,hard,warning
+4,yes,no,turn_right,turn left,from_left,no,no,yes,no,no,no,yes,20.0,0.920424,10.17215,hard,danger
+1,no,no,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00008,2.795589,38.08846,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.00002,0.5691824,54.41754,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,11.92013,1.939085,24.02916,hard,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,40.51239,5.652104,12.2471,easy,danger
+2,yes,yes,turn_right,turn_right,same_direction,no,no,no,no,no,yes,yes,0.00172528,5.921249,12.67434,normal,warning
+2,no,yes,straight,turn_right,from_left,no,no,yes,no,no,no,yes,29.48346,4.859877,9.874649,hard,warning
+2,yes,yes,straight,turn_right,from_right,no,no,no,no,no,no,no,4.320027,5.440476,9.886101,hard,warning
+1,no,yes,turn left,turn left,same_direction,no,no,no,no,no,yes,yes,30.41986,7.473145,10.17863,easy,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00029,1.821312,12.14326,hard,danger
+3,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,61.82993,0.5120888,29.80629,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,9.202991e-05,1.996517,19.92647,normal,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00001,5.42639,23.47617,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00005,2.530852,43.45684,hard,warning
+1,yes,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0006,6.526064,43.16988,normal,warning
+2,yes,yes,straight,straight,same_direction,no,no,no,no,yes,yes,yes,50.00381,1.558935,42.82452,normal,danger
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,yes,no,yes,8.335694e-05,4.909939,38.3923,normal,warning
+1,no,yes,reverse,stop,same_direction,no,no,yes,no,yes,no,yes,25.12309,2.070828,5.374044,easy,warning
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00002,1.798299,13.03914,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00013,5.087622,19.06598,hard,warning
+2,yes,yes,turn left,straight,from_left,no,no,yes,no,yes,yes,yes,70.00017,6.687134,10.04665,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,29.99999,8.153592,26.74543,hard,warning
+1,yes,yes,turn_right,stop,opposite_direction,no,no,no,no,no,no,no,7.240151,1.892756,22.33825,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,29.63808,6.153419,40.69506,easy,danger
+2,yes,no,turn left,stop,opposite_direction,no,no,yes,yes,no,yes,yes,0.005920004,5.638957,16.31321,easy,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,yes,yes,yes,56.01241,5.855851,23.38086,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,36.99911,4.981789,15.95285,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.01276,2.888197,15.25351,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,49.5517,5.689923,24.54827,easy,danger
+3,yes,yes,straight,straight,from_right,no,no,no,no,no,yes,yes,10.22004,2.955922,12.11664,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,7.771178,5.617484,40.01241,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,0.0001518306,6.306964,15.7792,hard,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,14.19044,1.418407,13.18713,hard,danger
+3,no,yes,turn_right,turn_right,same_direction,no,no,no,no,no,no,no,15.06938,3.945194,16.06529,hard,warning
+1,no,yes,stop,turn left,opposite_direction,no,no,no,no,no,no,no,30.00001,1.764419,0.1552598,normal,danger
+3,yes,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,22.0,8.9828,21.68864,normal,warning
+2,yes,yes,turn left,stop,opposite_direction,no,no,no,no,no,yes,yes,8.161183e-06,5.301252,26.93517,normal,warning
+2,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,38.00029,2.149798,0.5751645,hard,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,yes,no,no,no,yes,50.00011,3.029254,11.76716,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,49.99954,5.473762,46.16742,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00143,2.483706,5.751625,easy,warning
+1,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,no,yes,12.79113,0.8787801,1.910521,hard,danger
+1,yes,yes,turn_right,stop,opposite_direction,yes,no,yes,no,no,yes,yes,15.84,1.224495,15.83206,normal,danger
+2,yes,yes,turn left,straight,same_direction,no,no,no,no,no,yes,yes,22.0,7.504575,12.53759,normal,warning
+2,yes,yes,turn left,straight,from_left,no,no,no,no,no,yes,yes,20.0,5.750861,8.259327,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,44.76512,1.127519,22.8007,easy,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,3.403135,2.020796,18.81751,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,29.99996,5.038533,21.30502,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00071,1.606746,22.2303,hard,danger
+1,yes,yes,reverse,straight,opposite_direction,no,no,yes,no,no,no,yes,26.04486,5.461939,5.606505,normal,warning
+1,yes,yes,turn left,stop,opposite_direction,no,yes,yes,no,yes,yes,yes,0.0001440678,5.950253,13.59542,easy,warning
+1,yes,yes,stop,straight,same_direction,no,no,yes,no,no,no,yes,19.09364,4.842541,9.149297,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,yes,no,yes,no,no,no,yes,30.00014,6.113277,9.467628,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.0001,5.122967,14.03222,normal,warning
+1,no,yes,straight,straight,same_direction,yes,no,no,no,no,no,yes,15.75997,1.943463,34.89121,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00225,0.0,27.28393,hard,collision
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,29.00012,6.206149,12.97268,easy,warning
+2,no,yes,reverse,straight,same_direction,no,no,no,no,yes,no,yes,50.00031,1.724902,11.79802,easy,danger
+1,yes,yes,stop,straight,same_direction,no,no,no,no,no,no,no,0.0001729242,1.042695,3.924875,normal,danger
+1,yes,yes,stop,stop,same_direction,no,no,no,no,no,no,no,50.00001,5.008864,0.0006687067,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,25.004,4.915691,8.132678,hard,warning
+1,yes,yes,turn_right,stop,opposite_direction,yes,no,yes,no,no,yes,yes,19.09146,2.619035,15.83206,normal,warning
+2,no,yes,stop,straight,same_direction,no,no,no,no,yes,no,yes,27.00729,1.265023,1.247496,normal,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,27.0,7.458138,31.55957,normal,warning
+3,yes,no,turn_right,turn_right,same_direction,yes,no,no,yes,yes,yes,yes,10.11047,4.890597,11.43713,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00008,5.061384,19.38222,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,59.99995,5.575675,25.86432,hard,warning
+1,yes,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.00456568,9.42908,1.73942,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,32.00033,6.639435,25.84962,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,15.12223,5.237824,18.69518,hard,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001066166,3.90916,10.86404,easy,warning
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,no,no,no,0.0001524731,5.430632,32.96946,normal,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.0,3.002895,22.29505,normal,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001482972,1.478194,33.62012,normal,danger
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,45.62135,1.914357,38.31414,hard,danger
+1,no,yes,turn_right,straight,opposite_direction,yes,no,no,no,no,no,yes,31.00014,3.865819,23.71477,easy,warning
+3,no,yes,straight,stop,opposite_direction,no,no,no,no,yes,no,yes,9.481383e-05,4.675607,40.57099,normal,warning
+4,yes,no,turn left,turn_right,from_left,no,no,yes,yes,yes,yes,yes,21.55799,3.556622,9.550787,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,yes,no,yes,60.00027,6.181009,9.377585,hard,warning
+1,yes,yes,turn_right,straight,opposite_direction,no,yes,yes,no,yes,yes,yes,16.66437,2.201119,12.33593,easy,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00014,1.097113,44.89902,normal,danger
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,20.00239,2.404996,23.09386,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,19.99994,5.620943,13.28828,hard,warning
+3,yes,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,67.7825,5.52803,22.58615,normal,warning
+1,no,yes,straight,straight,opposite_direction,yes,no,no,no,no,no,yes,3.119814,5.052133,13.39495,normal,warning
+1,yes,yes,turn left,turn left,same_direction,no,no,no,no,no,yes,yes,31.67986,5.754764,13.68534,easy,warning
+1,no,yes,reverse,straight,same_direction,yes,no,no,no,no,no,yes,37.0017,6.555036,0.975064,easy,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,37.22353,2.545766,53.30037,normal,warning
+1,yes,yes,straight,stop,from_left,yes,no,yes,no,no,yes,yes,49.55491,5.414233,1.897257,hard,warning
+1,yes,yes,turn left,straight,from_left,no,yes,yes,no,no,yes,yes,0.0001553105,6.027695,10.70913,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00004,5.338083,23.92454,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00045,0.3485775,15.10213,hard,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,10.60804,6.551089,10.89845,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,50.00002,5.438549,23.73205,hard,warning
+2,yes,no,turn left,straight,same_direction,no,no,yes,yes,yes,yes,yes,50.00071,4.988101,12.14454,hard,warning
+2,yes,no,turn_right,turn left,opposite_direction,no,no,yes,yes,no,no,yes,30.00001,1.366452,13.03085,hard,danger
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,28.0,5.479369,22.66248,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00047,6.040806,23.34157,easy,danger
+1,yes,yes,turn left,turn_right,same_direction,no,no,yes,no,no,yes,yes,0.0001686412,8.934186,25.45378,hard,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,52.83351,6.090126,24.42122,normal,warning
+1,yes,yes,straight,straight,from_right,no,no,no,no,no,no,no,36.35747,0.0,22.01214,easy,collision
+1,no,yes,straight,turn left,opposite_direction,no,no,yes,no,no,no,yes,29.99996,8.129354,5.774101,normal,warning
+2,no,yes,turn left,stop,from_left,no,no,no,no,yes,no,yes,9.583103e-05,6.056454,8.58101,hard,warning
+1,yes,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,11.83218,3.273722,11.6829,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,46.4281,2.028817,37.46289,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,50.00027,4.337008,29.72171,easy,warning
+1,yes,yes,turn left,stop,same_direction,no,no,no,no,yes,no,yes,50.00002,1.851573,6.822624,hard,danger
+2,yes,yes,turn_right,straight,opposite_direction,no,no,yes,no,yes,yes,yes,20.00047,4.397963,18.67654,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,7.570117e-05,1.612244,31.82366,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00681,2.349848,19.70718,hard,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,21.80001,1.495971,10.89845,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,yes,no,yes,51.00005,2.089468,42.97785,hard,warning
+1,no,yes,stop,turn left,opposite_direction,no,no,yes,no,yes,no,yes,30.00002,4.602232,5.762939,normal,warning
+1,no,yes,straight,stop,opposite_direction,no,no,yes,no,no,no,yes,8.197241,8.241447,13.54961,normal,warning
+2,no,yes,reverse,straight,opposite_direction,no,no,no,no,yes,no,yes,22.00138,0.9564505,7.04187,easy,danger
+1,no,no,straight,turn left,same_direction,no,no,no,no,no,no,no,30.00284,3.090346,17.98229,normal,warning
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00001,1.502338,21.64801,hard,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,5.642788e-05,9.427132,17.2047,normal,warning
+1,yes,no,turn_right,straight,same_direction,no,no,no,no,no,yes,yes,18.492,1.448204,42.323,hard,danger
+1,no,yes,straight,turn_right,opposite_direction,no,no,no,no,no,no,no,38.56261,5.785535,3.706903,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,36.00021,3.307785,31.99055,hard,warning
+2,yes,no,turn left,straight,opposite_direction,no,no,yes,yes,no,no,yes,30.00022,1.126023,17.95517,easy,danger
+4,yes,no,turn_right,turn left,opposite_direction,no,no,yes,no,no,no,yes,30.00014,6.405789,12.63434,hard,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,8.341048e-05,1.168081,19.5795,normal,danger
+1,yes,yes,straight,turn_right,from_left,no,no,yes,no,no,no,yes,10.03901,2.105602,7.549549,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00028,5.262723,17.09912,normal,warning
+1,no,yes,straight,straight,same_direction,no,no,yes,no,no,no,yes,5.578544e-05,5.536443,10.85785,hard,warning
+1,no,yes,reverse,straight,from_right,yes,no,no,no,no,no,yes,27.61159,4.785314,5.771193,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,37.26134,1.329421,25.36651,easy,danger
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,19.99975,5.290618,49.32652,easy,warning
+4,yes,no,turn left,turn left,from_left,no,no,yes,no,no,no,yes,18.72003,5.196054,9.733169,hard,warning
+2,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.000179884,5.372738,9.528483,normal,warning
+3,no,yes,straight,straight,same_direction,no,no,no,no,yes,no,yes,77.00038,5.50398,18.53342,hard,warning
+1,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,31.88112,6.409291,22.92389,hard,warning
+2,no,yes,stop,straight,opposite_direction,no,no,no,no,yes,no,yes,26.80358,5.028011,5.043612,normal,warning
+1,yes,yes,turn left,straight,opposite_direction,no,no,yes,no,no,no,yes,20.0,0.6409321,9.470869,hard,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.0,1.728933,35.14493,hard,danger
+1,yes,yes,stop,straight,from_left,yes,no,yes,no,no,no,yes,15.31514,5.073856,1.440218,hard,warning
+1,yes,yes,turn left,straight,from_left,no,yes,yes,no,no,yes,yes,18.97397,8.952682,8.967731,hard,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.00112,0.4971727,20.15291,easy,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,9.261882e-05,4.251961,12.36168,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,42.3233,1.422211,24.70469,easy,danger
+2,yes,yes,turn left,straight,same_direction,no,no,yes,no,yes,yes,yes,20.00017,7.134973,8.805594,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,20.00046,3.024377,23.34157,easy,danger
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,11.94126,2.818345,19.17242,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,44.00023,2.024024,42.0671,normal,warning
+2,yes,yes,straight,stop,opposite_direction,no,yes,no,no,no,yes,yes,5.782156,5.646256,18.35514,normal,warning
+2,yes,no,turn left,turn_right,same_direction,no,no,yes,yes,no,no,yes,2.400772e-05,1.465563,26.7251,easy,danger
+1,no,yes,straight,stop,from_right,yes,no,no,no,yes,no,yes,0.0001576661,5.29739,9.826713,hard,warning
+3,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,57.00027,6.014276,25.36825,hard,warning
+1,yes,yes,straight,straight,same_direction,no,no,no,no,no,yes,yes,27.94425,0.7729261,11.49934,normal,danger
+3,yes,yes,straight,turn left,from_left,no,no,no,no,no,yes,yes,30.00016,8.46476,27.271,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,48.05541,1.622256,21.2454,hard,danger
+1,yes,yes,reverse,stop,from_right,no,yes,yes,no,no,yes,yes,4.12815,4.032357,7.12232,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,10.88423,2.480726,17.41754,normal,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,49.9533,6.786811,15.29466,normal,warning
+1,yes,yes,stop,turn_right,same_direction,no,no,no,no,no,no,no,21.73995,7.011354,0.03176433,hard,warning
+1,yes,yes,stop,turn_right,from_left,no,no,yes,no,no,no,yes,12.62973,7.082289,0.0141094,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,23.52026,6.434078,18.00557,normal,warning
+1,no,yes,stop,straight,same_direction,no,no,no,no,no,no,no,23.47736,0.0,16.12733,normal,collision
+1,no,yes,stop,stop,from_right,no,no,no,no,yes,no,yes,25.58859,2.618762,5.233219,hard,warning
+4,yes,no,turn left,turn left,same_direction,yes,no,no,no,no,no,yes,30.00009,5.309114,22.18231,hard,warning
+1,no,yes,turn left,turn left,same_direction,no,no,yes,no,no,yes,yes,30.00012,1.228901,9.562905,normal,danger
+4,yes,no,stop,turn left,from_left,yes,no,no,no,no,no,yes,30.00002,2.40143,4.660961,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00012,2.087312,30.64648,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00183,0.9626675,23.60625,hard,danger
+1,no,yes,stop,turn_right,same_direction,yes,no,no,no,no,no,yes,15.30852,5.360448,6.661804,hard,warning
+2,yes,yes,straight,straight,opposite_direction,no,no,yes,no,yes,yes,yes,20.00169,5.067012,6.534957,normal,warning
+2,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,20.00014,5.641539,35.47034,hard,warning
+1,no,no,straight,stop,same_direction,no,no,no,no,no,no,no,0.000184274,2.04757,13.55259,normal,warning
+1,yes,yes,straight,stop,from_right,no,yes,yes,no,no,yes,yes,9.18415,3.103843,15.69089,normal,warning
+4,yes,no,turn_right,turn_right,same_direction,no,no,no,yes,no,yes,yes,30.00029,4.155961,24.04121,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00006,2.159264,43.90478,normal,warning
+2,yes,no,reverse,stop,same_direction,no,no,no,no,no,no,no,14.55158,1.23015,5.147119,hard,danger
+2,yes,yes,straight,straight,same_direction,no,no,no,no,no,no,no,70.00267,4.503952,13.73326,hard,warning
+1,no,yes,straight,stop,same_direction,no,no,no,no,no,no,no,0.0001327179,1.304435,33.62012,normal,danger
+3,no,yes,straight,straight,opposite_direction,no,no,yes,no,no,no,yes,50.1068,0.9096472,58.89131,easy,danger
+2,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,50.00002,2.437067,17.9068,hard,warning
+1,yes,no,turn_right,straight,same_direction,no,no,no,no,no,yes,yes,19.98668,8.794537,42.323,hard,warning
+1,no,yes,straight,straight,opposite_direction,no,no,no,no,no,no,no,6.791047,1.85266,19.2063,hard,danger
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,50.00188,5.605991,29.39132,hard,warning
+2,no,yes,straight,straight,same_direction,no,no,no,no,no,no,no,36.37759,5.146997,16.21534,hard,warning
